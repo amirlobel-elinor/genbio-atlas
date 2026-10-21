@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "p001",
+    "chapter": 1,
+    "kind": "public",
+    "question": "Which proposal can be tested against observations?",
+    "options": [
+      "A hypothesis",
+      "A preference",
+      "An untestable claim"
+    ],
+    "correct": 0,
+    "explanation": "Evidence can support or reject a hypothesis.",
+    "os": 1,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/1-review-questions"
+  },
+  {
+    "id": "p002",
+    "chapter": 1,
+    "kind": "public",
+    "question": "Several observations lead to a general explanation. Which reasoning is used?",
+    "options": [
+      "Induction",
+      "Deduction",
+      "Random sampling"
+    ],
+    "correct": 0,
+    "explanation": "Induction builds generalizations from specific observations.",
+    "os": 1,
+    "sourceQuestion": 7,
+    "url": "https://openstax.org/books/biology-2e/pages/1-review-questions"
+  },
+  {
+    "id": "p003",
+    "chapter": 2,
+    "kind": "public",
+    "question": "An atom has mass number 31 and 15 protons. Neutrons?",
+    "options": [
+      "16",
+      "15",
+      "31"
+    ],
+    "correct": 0,
+    "explanation": "Subtract proton number from mass number.",
+    "os": 2,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/2-review-questions"
+  },
+  {
+    "id": "p004",
+    "chapter": 2,
+    "kind": "public",
+    "question": "Two carbon atoms differ only in neutron count. They are…",
+    "options": [
+      "Different isotopes",
+      "Different elements",
+      "Opposite ions"
+    ],
+    "correct": 0,
+    "explanation": "Isotopes share a proton count.",
+    "os": 2,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/2-review-questions"
+  },
+  {
+    "id": "p005",
+    "chapter": 3,
+    "kind": "public",
+    "question": "Adding acid usually changes pH in which direction?",
+    "options": [
+      "Downward",
+      "Upward",
+      "No change possible"
+    ],
+    "correct": 0,
+    "explanation": "More hydrogen ions mean lower pH.",
+    "os": 2,
+    "sourceQuestion": 9,
+    "url": "https://openstax.org/books/biology-2e/pages/2-review-questions"
+  },
+  {
+    "id": "p006",
+    "chapter": 3,
+    "kind": "public",
+    "question": "Which system resists a small addition of acid?",
+    "options": [
+      "A buffer",
+      "Pure oil",
+      "A catalyst"
+    ],
+    "correct": 0,
+    "explanation": "Buffers accept or donate hydrogen ions.",
+    "os": 2,
+    "sourceQuestion": 10,
+    "url": "https://openstax.org/books/biology-2e/pages/2-review-questions"
+  },
+  {
+    "id": "p007",
+    "chapter": 4,
+    "kind": "public",
+    "question": "How many covalent bonds can neutral carbon ordinarily form?",
+    "options": [
+      "Four",
+      "Two",
+      "Six"
+    ],
+    "correct": 0,
+    "explanation": "Carbon has four valence electrons.",
+    "os": 2,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/2-review-questions"
+  },
+  {
+    "id": "p008",
+    "chapter": 4,
+    "kind": "public",
+    "question": "Which attached group can donate H⁺ as an acid?",
+    "options": [
+      "Carboxyl",
+      "Methyl",
+      "A hydrocarbon chain"
+    ],
+    "correct": 0,
+    "explanation": "Carboxyl groups can lose a proton.",
+    "os": 2,
+    "sourceQuestion": 13,
+    "url": "https://openstax.org/books/biology-2e/pages/2-review-questions"
+  },
+  {
+    "id": "p009",
+    "chapter": 5,
+    "kind": "public",
+    "question": "What reaction uses water to split a polymer?",
+    "options": [
+      "Hydrolysis",
+      "Condensation",
+      "Oxidation alone"
+    ],
+    "correct": 0,
+    "explanation": "Water participates in breaking a linkage.",
+    "os": 3,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/3-review-questions"
+  },
+  {
+    "id": "p010",
+    "chapter": 5,
+    "kind": "public",
+    "question": "An alpha helix belongs to which protein structure level?",
+    "options": [
+      "Secondary",
+      "Primary",
+      "Quaternary"
+    ],
+    "correct": 0,
+    "explanation": "Backbone hydrogen bonds stabilize local folding.",
+    "os": 3,
+    "sourceQuestion": 16,
+    "url": "https://openstax.org/books/biology-2e/pages/3-review-questions"
+  },
+  {
+    "id": "p011",
+    "chapter": 6,
+    "kind": "public",
+    "question": "Which structure lies outside the endomembrane system?",
+    "options": [
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Endoplasmic reticulum"
+    ],
+    "correct": 0,
+    "explanation": "Mitochondria have their own membrane system.",
+    "os": 4,
+    "sourceQuestion": 14,
+    "url": "https://openstax.org/books/biology-2e/pages/4-review-questions"
+  },
+  {
+    "id": "p012",
+    "chapter": 6,
+    "kind": "public",
+    "question": "Which protein-making structure occurs in both bacterial and animal cells?",
+    "options": [
+      "Ribosome",
+      "Nucleolus",
+      "Rough ER"
+    ],
+    "correct": 0,
+    "explanation": "Both cell types translate RNA on ribosomes.",
+    "os": 4,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/4-review-questions"
+  },
+  {
+    "id": "p013",
+    "chapter": 7,
+    "kind": "public",
+    "question": "What jointly describes chemical and electrical forces on an ion?",
+    "options": [
+      "Electrochemical gradient",
+      "Hydrostatic pressure",
+      "Surface tension"
+    ],
+    "correct": 0,
+    "explanation": "Both concentration and charge influence ion movement.",
+    "os": 5,
+    "sourceQuestion": 14,
+    "url": "https://openstax.org/books/biology-2e/pages/5-review-questions"
+  },
+  {
+    "id": "p014",
+    "chapter": 7,
+    "kind": "public",
+    "question": "After a vesicle releases cargo outside, where does its membrane go?",
+    "options": [
+      "Into the plasma membrane",
+      "Into the nucleus",
+      "It vanishes"
+    ],
+    "correct": 0,
+    "explanation": "Exocytosis fuses the two membranes.",
+    "os": 5,
+    "sourceQuestion": 15,
+    "url": "https://openstax.org/books/biology-2e/pages/5-review-questions"
+  },
+  {
+    "id": "p015",
+    "chapter": 8,
+    "kind": "public",
+    "question": "An inhibitor binds away from the active site. Its effect may be…",
+    "options": [
+      "Changed enzyme shape",
+      "Added substrate atoms",
+      "Increased reaction ΔG"
+    ],
+    "correct": 0,
+    "explanation": "Allosteric binding can alter catalytic activity.",
+    "os": 6,
+    "sourceQuestion": 14,
+    "url": "https://openstax.org/books/biology-2e/pages/6-review-questions"
+  },
+  {
+    "id": "p016",
+    "chapter": 8,
+    "kind": "public",
+    "question": "What do catalysts lower to accelerate reactions?",
+    "options": [
+      "Activation barrier",
+      "Product free energy",
+      "Equilibrium constant"
+    ],
+    "correct": 0,
+    "explanation": "Catalysts speed approach to equilibrium without shifting it.",
+    "os": 6,
+    "sourceQuestion": 13,
+    "url": "https://openstax.org/books/biology-2e/pages/6-review-questions"
+  },
+  {
+    "id": "p017",
+    "chapter": 9,
+    "kind": "public",
+    "question": "What happens to a molecule that is reduced?",
+    "options": [
+      "It gains electrons",
+      "It loses electrons",
+      "It always loses hydrogen"
+    ],
+    "correct": 0,
+    "explanation": "Reduction means electron gain.",
+    "os": 7,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/7-review-questions"
+  },
+  {
+    "id": "p018",
+    "chapter": 9,
+    "kind": "public",
+    "question": "What directly powers ATP synthase during chemiosmosis?",
+    "options": [
+      "Proton flow down a gradient",
+      "Carbon dioxide diffusion",
+      "DNA replication"
+    ],
+    "correct": 0,
+    "explanation": "The gradient supplies energy for ATP synthesis.",
+    "os": 7,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/7-review-questions"
+  },
+  {
+    "id": "p019",
+    "chapter": 10,
+    "kind": "public",
+    "question": "Where does carbon assimilation by the Calvin cycle occur in chloroplasts?",
+    "options": [
+      "Stroma",
+      "Thylakoid lumen",
+      "Outer membrane"
+    ],
+    "correct": 0,
+    "explanation": "Carbon-fixing enzymes are located in the stroma.",
+    "os": 8,
+    "sourceQuestion": 18,
+    "url": "https://openstax.org/books/biology-2e/pages/8-review-questions"
+  },
+  {
+    "id": "p020",
+    "chapter": 10,
+    "kind": "public",
+    "question": "Which external carbon source feeds the Calvin cycle?",
+    "options": [
+      "CO₂",
+      "O₂",
+      "ATP"
+    ],
+    "correct": 0,
+    "explanation": "ATP supplies energy, not carbon atoms.",
+    "os": 8,
+    "sourceQuestion": 16,
+    "url": "https://openstax.org/books/biology-2e/pages/8-review-questions"
+  },
+  {
+    "id": "p021",
+    "chapter": 11,
+    "kind": "public",
+    "question": "What does a protein phosphatase remove?",
+    "options": [
+      "Phosphate groups",
+      "All peptide bonds",
+      "DNA bases"
+    ],
+    "correct": 0,
+    "explanation": "Removing phosphates changes protein regulation.",
+    "os": 9,
+    "sourceQuestion": 14,
+    "url": "https://openstax.org/books/biology-2e/pages/9-review-questions"
+  },
+  {
+    "id": "p022",
+    "chapter": 11,
+    "kind": "public",
+    "question": "Why does a charged ligand usually bind a surface receptor?",
+    "options": [
+      "It crosses the lipid core poorly",
+      "It lacks atoms",
+      "It is already inside"
+    ],
+    "correct": 0,
+    "explanation": "The hydrophobic bilayer limits charged molecule entry.",
+    "os": 9,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/9-review-questions"
+  },
+  {
+    "id": "p023",
+    "chapter": 12,
+    "kind": "public",
+    "question": "When is nuclear DNA copied in a typical dividing cell?",
+    "options": [
+      "S phase",
+      "Anaphase",
+      "Cytokinesis"
+    ],
+    "correct": 0,
+    "explanation": "Replication precedes chromosome separation.",
+    "os": 10,
+    "sourceQuestion": 7,
+    "url": "https://openstax.org/books/biology-2e/pages/10-review-questions"
+  },
+  {
+    "id": "p024",
+    "chapter": 12,
+    "kind": "public",
+    "question": "Which mitotic event defines anaphase?",
+    "options": [
+      "Sister chromatids separate",
+      "DNA is copied",
+      "The nucleolus first enlarges"
+    ],
+    "correct": 0,
+    "explanation": "Separated chromatids move toward opposite poles.",
+    "os": 10,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/10-review-questions"
+  },
+  {
+    "id": "p025",
+    "chapter": 13,
+    "kind": "public",
+    "question": "Which meiotic division separates sister chromatids?",
+    "options": [
+      "Meiosis II",
+      "Meiosis I",
+      "Neither division"
+    ],
+    "correct": 0,
+    "explanation": "Homologous chromosomes separate in the first division.",
+    "os": 11,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/11-review-questions"
+  },
+  {
+    "id": "p026",
+    "chapter": 13,
+    "kind": "public",
+    "question": "A species has 24 chromosomes in diploid cells. Its gametes ordinarily contain…",
+    "options": [
+      "12",
+      "24",
+      "48"
+    ],
+    "correct": 0,
+    "explanation": "Meiosis halves the number of chromosome sets.",
+    "os": 11,
+    "sourceQuestion": 9,
+    "url": "https://openstax.org/books/biology-2e/pages/11-review-questions"
+  },
+  {
+    "id": "p027",
+    "chapter": 14,
+    "kind": "public",
+    "question": "Red and white parents yield uniformly pink heterozygotes. Which model fits?",
+    "options": [
+      "Incomplete dominance",
+      "Complete dominance",
+      "Y linkage"
+    ],
+    "correct": 0,
+    "explanation": "The heterozygote has an intermediate phenotype.",
+    "os": 12,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/12-review-questions"
+  },
+  {
+    "id": "p028",
+    "chapter": 14,
+    "kind": "public",
+    "question": "One gene masks another gene's effect. What relationship is this?",
+    "options": [
+      "Epistasis",
+      "Independent assortment",
+      "Codominance"
+    ],
+    "correct": 0,
+    "explanation": "Epistasis describes interactions between different genes.",
+    "os": 12,
+    "sourceQuestion": 20,
+    "url": "https://openstax.org/books/biology-2e/pages/12-review-questions"
+  },
+  {
+    "id": "p029",
+    "chapter": 15,
+    "kind": "public",
+    "question": "What observed recombination frequency suggests independently assorting loci?",
+    "options": [
+      "50%",
+      "100%",
+      "0%"
+    ],
+    "correct": 0,
+    "explanation": "Independent assortment produces equal recombinant and parental classes.",
+    "os": 13,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/13-review-questions"
+  },
+  {
+    "id": "p030",
+    "chapter": 15,
+    "kind": "public",
+    "question": "Why are extra X chromosomes often less disruptive than extra autosomes?",
+    "options": [
+      "Most extra X genes are silenced",
+      "X contains no genes",
+      "Autosomes never replicate"
+    ],
+    "correct": 0,
+    "explanation": "X inactivation provides partial dosage compensation.",
+    "os": 13,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/13-review-questions"
+  },
+  {
+    "id": "p031",
+    "chapter": 16,
+    "kind": "public",
+    "question": "Double-stranded DNA contains 20% adenine. Cytosine percentage?",
+    "options": [
+      "30%",
+      "20%",
+      "60%"
+    ],
+    "correct": 0,
+    "explanation": "A equals T; the remaining bases split equally.",
+    "os": 14,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/14-review-questions"
+  },
+  {
+    "id": "p032",
+    "chapter": 16,
+    "kind": "public",
+    "question": "A replicated DNA duplex contains one old and one new strand. This is…",
+    "options": [
+      "Semiconservative copying",
+      "Conservative copying",
+      "Protein templating"
+    ],
+    "correct": 0,
+    "explanation": "Each parental strand guides a new partner.",
+    "os": 14,
+    "sourceQuestion": 9,
+    "url": "https://openstax.org/books/biology-2e/pages/14-review-questions"
+  },
+  {
+    "id": "p033",
+    "chapter": 17,
+    "kind": "public",
+    "question": "Different codons specifying one amino acid demonstrate genetic-code…",
+    "options": [
+      "Redundancy",
+      "Ambiguity",
+      "Randomness"
+    ],
+    "correct": 0,
+    "explanation": "Several codons can share a meaning.",
+    "os": 15,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/15-review-questions"
+  },
+  {
+    "id": "p034",
+    "chapter": 17,
+    "kind": "public",
+    "question": "Eight complete codons contain how many nucleotides?",
+    "options": [
+      "24",
+      "8",
+      "16"
+    ],
+    "correct": 0,
+    "explanation": "Each codon contains three nucleotides.",
+    "os": 15,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/15-review-questions"
+  },
+  {
+    "id": "p035",
+    "chapter": 18,
+    "kind": "public",
+    "question": "Which event regulates an already-made protein?",
+    "options": [
+      "Phosphorylating it",
+      "Blocking its promoter",
+      "Splicing its RNA"
+    ],
+    "correct": 0,
+    "explanation": "Post-translational control occurs after protein synthesis.",
+    "os": 16,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/16-review-questions"
+  },
+  {
+    "id": "p036",
+    "chapter": 18,
+    "kind": "public",
+    "question": "Without lactose, why is the lac operon usually repressed?",
+    "options": [
+      "Repressor binds its operator",
+      "Lactose destroys DNA",
+      "Glucose makes RNA directly"
+    ],
+    "correct": 0,
+    "explanation": "Inducer absence permits repressor binding.",
+    "os": 16,
+    "sourceQuestion": 7,
+    "url": "https://openstax.org/books/biology-2e/pages/16-review-questions"
+  },
+  {
+    "id": "p037",
+    "chapter": 19,
+    "kind": "public",
+    "question": "Reverse transcriptase builds which product from an RNA template?",
+    "options": [
+      "DNA",
+      "Lipid",
+      "A capsid"
+    ],
+    "correct": 0,
+    "explanation": "It reverses the usual DNA-to-RNA information transfer.",
+    "os": 21,
+    "sourceQuestion": 11,
+    "url": "https://openstax.org/books/biology-2e/pages/21-review-questions"
+  },
+  {
+    "id": "p038",
+    "chapter": 19,
+    "kind": "public",
+    "question": "What does productive viral reproduction generally require?",
+    "options": [
+      "A suitable host cell",
+      "Only purified water",
+      "An independent viral ribosome"
+    ],
+    "correct": 0,
+    "explanation": "Viruses depend on host cellular machinery.",
+    "os": 21,
+    "sourceQuestion": 9,
+    "url": "https://openstax.org/books/biology-2e/pages/21-review-questions"
+  },
+  {
+    "id": "p039",
+    "chapter": 20,
+    "kind": "public",
+    "question": "Introducing engineered DNA into an organism is an example of…",
+    "options": [
+      "Genetic engineering",
+      "Fossil dating",
+      "Classical taxonomy"
+    ],
+    "correct": 0,
+    "explanation": "Engineered DNA changes an organism's genetic material.",
+    "os": 17,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/17-review-questions"
+  },
+  {
+    "id": "p040",
+    "chapter": 20,
+    "kind": "public",
+    "question": "Why can a dideoxynucleotide end a sequencing strand?",
+    "options": [
+      "It lacks a 3′ hydroxyl",
+      "It contains an extra chromosome",
+      "It dissolves DNA"
+    ],
+    "correct": 0,
+    "explanation": "No next nucleotide can attach normally.",
+    "os": 17,
+    "sourceQuestion": 14,
+    "url": "https://openstax.org/books/biology-2e/pages/17-review-questions"
+  },
+  {
+    "id": "p041",
+    "chapter": 21,
+    "kind": "public",
+    "question": "Which concern accompanies sharing personal genome data?",
+    "options": [
+      "Genetic privacy",
+      "Loss of all chromosomes",
+      "Guaranteed diagnosis"
+    ],
+    "correct": 0,
+    "explanation": "Sequence information can reveal sensitive inherited information.",
+    "os": 17,
+    "sourceQuestion": 16,
+    "url": "https://openstax.org/books/biology-2e/pages/17-review-questions"
+  },
+  {
+    "id": "p042",
+    "chapter": 21,
+    "kind": "public",
+    "question": "Which crop goal can genomic comparisons support?",
+    "options": [
+      "Disease resistance",
+      "Eliminating all variation",
+      "Replacing photosynthesis"
+    ],
+    "correct": 0,
+    "explanation": "Genetic information can guide useful trait selection.",
+    "os": 17,
+    "sourceQuestion": 18,
+    "url": "https://openstax.org/books/biology-2e/pages/17-review-questions"
+  },
+  {
+    "id": "p043",
+    "chapter": 22,
+    "kind": "public",
+    "question": "Darwin and Wallace independently described which evolutionary mechanism?",
+    "options": [
+      "Natural selection",
+      "Continental drift",
+      "Genetic engineering"
+    ],
+    "correct": 0,
+    "explanation": "Inherited variants differ in reproductive success.",
+    "os": 18,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/18-review-questions"
+  },
+  {
+    "id": "p044",
+    "chapter": 22,
+    "kind": "public",
+    "question": "Similar streamlined forms evolve in distant aquatic lineages. This suggests…",
+    "options": [
+      "Convergence",
+      "Identical ancestry for every trait",
+      "No environmental influence"
+    ],
+    "correct": 0,
+    "explanation": "Similar selection pressures can shape analogous traits.",
+    "os": 18,
+    "sourceQuestion": 7,
+    "url": "https://openstax.org/books/biology-2e/pages/18-review-questions"
+  },
+  {
+    "id": "p045",
+    "chapter": 23,
+    "kind": "public",
+    "question": "A rare allele becomes common among descendants of a few colonists. Likely mechanism?",
+    "options": [
+      "Founder effect",
+      "Directed mutation",
+      "Perfect selection"
+    ],
+    "correct": 0,
+    "explanation": "A small founding sample can alter frequencies.",
+    "os": 19,
+    "sourceQuestion": 7,
+    "url": "https://openstax.org/books/biology-2e/pages/19-review-questions"
+  },
+  {
+    "id": "p046",
+    "chapter": 23,
+    "kind": "public",
+    "question": "Breeding migrants transfer alleles between populations through…",
+    "options": [
+      "Gene flow",
+      "Genetic isolation",
+      "Independent assortment alone"
+    ],
+    "correct": 0,
+    "explanation": "Migration plus reproduction can move alleles.",
+    "os": 19,
+    "sourceQuestion": 8,
+    "url": "https://openstax.org/books/biology-2e/pages/19-review-questions"
+  },
+  {
+    "id": "p047",
+    "chapter": 24,
+    "kind": "public",
+    "question": "A new geographic barrier splits a population. Which route may follow?",
+    "options": [
+      "Allopatric speciation",
+      "Instant identical genomes",
+      "Clonal fusion"
+    ],
+    "correct": 0,
+    "explanation": "Geographic separation can reduce gene exchange.",
+    "os": 18,
+    "sourceQuestion": 8,
+    "url": "https://openstax.org/books/biology-2e/pages/18-review-questions"
+  },
+  {
+    "id": "p048",
+    "chapter": 24,
+    "kind": "public",
+    "question": "Chromosome duplication within one species produces an…",
+    "options": [
+      "Autopolyploid",
+      "Allopolyploid hybrid",
+      "Aneuploid gamete only"
+    ],
+    "correct": 0,
+    "explanation": "Allopolyploids combine chromosome sets from different species.",
+    "os": 18,
+    "sourceQuestion": 11,
+    "url": "https://openstax.org/books/biology-2e/pages/18-review-questions"
+  },
+  {
+    "id": "p049",
+    "chapter": 25,
+    "kind": "public",
+    "question": "The earliest known cellular life had which broad organization?",
+    "options": [
+      "Prokaryotic",
+      "Flowering plant",
+      "Mammalian"
+    ],
+    "correct": 0,
+    "explanation": "Early cells lacked a membrane-bound nucleus.",
+    "os": 22,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/22-review-questions"
+  },
+  {
+    "id": "p050",
+    "chapter": 25,
+    "kind": "public",
+    "question": "Which microbes substantially oxygenated ancient oceans and air?",
+    "options": [
+      "Cyanobacteria",
+      "Methanogenic archaea",
+      "Yeasts"
+    ],
+    "correct": 0,
+    "explanation": "Oxygenic photosynthesis released molecular oxygen.",
+    "os": 22,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/22-review-questions"
+  },
+  {
+    "id": "p051",
+    "chapter": 26,
+    "kind": "public",
+    "question": "Two lineages share an immediate branching point. They are…",
+    "options": [
+      "Sister groups",
+      "Necessarily identical species",
+      "Direct copies"
+    ],
+    "correct": 0,
+    "explanation": "Their most recent split joins them together.",
+    "os": 20,
+    "sourceQuestion": 7,
+    "url": "https://openstax.org/books/biology-2e/pages/20-review-questions"
+  },
+  {
+    "id": "p052",
+    "chapter": 26,
+    "kind": "public",
+    "question": "A complete clade includes an ancestor and…",
+    "options": [
+      "Every descendant",
+      "Only living descendants",
+      "Only similar-looking descendants"
+    ],
+    "correct": 0,
+    "explanation": "Clades reflect ancestry, not appearance alone.",
+    "os": 20,
+    "sourceQuestion": 10,
+    "url": "https://openstax.org/books/biology-2e/pages/20-review-questions"
+  },
+  {
+    "id": "p053",
+    "chapter": 27,
+    "kind": "public",
+    "question": "A microbe requiring very salty conditions is a…",
+    "options": [
+      "Halophile",
+      "Thermophile by definition",
+      "Methanogen by definition"
+    ],
+    "correct": 0,
+    "explanation": "Salt tolerance and temperature preference are different traits.",
+    "os": 22,
+    "sourceQuestion": 7,
+    "url": "https://openstax.org/books/biology-2e/pages/22-review-questions"
+  },
+  {
+    "id": "p054",
+    "chapter": 27,
+    "kind": "public",
+    "question": "Gram staining distinguishes bacterial differences mainly in the…",
+    "options": [
+      "Cell envelope",
+      "Chromosome count",
+      "Ribosome genetic code"
+    ],
+    "correct": 0,
+    "explanation": "Cell-wall architecture affects stain retention.",
+    "os": 22,
+    "sourceQuestion": 13,
+    "url": "https://openstax.org/books/biology-2e/pages/22-review-questions"
+  },
+  {
+    "id": "p055",
+    "chapter": 28,
+    "kind": "public",
+    "question": "Mitochondrial ancestry is best explained by…",
+    "options": [
+      "Bacterial endosymbiosis",
+      "Spontaneous crystal formation",
+      "A folded chromosome"
+    ],
+    "correct": 0,
+    "explanation": "An incorporated bacterium became a cellular partner.",
+    "os": 23,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/23-review-questions"
+  },
+  {
+    "id": "p056",
+    "chapter": 28,
+    "kind": "public",
+    "question": "A protist combines photosynthesis with organic feeding. It is a…",
+    "options": [
+      "Mixotroph",
+      "Strict autotroph",
+      "Strict heterotroph"
+    ],
+    "correct": 0,
+    "explanation": "It uses more than one nutritional strategy.",
+    "os": 23,
+    "sourceQuestion": 11,
+    "url": "https://openstax.org/books/biology-2e/pages/23-review-questions"
+  },
+  {
+    "id": "p057",
+    "chapter": 29,
+    "kind": "public",
+    "question": "Plant alternation of generations alternates multicellular…",
+    "options": [
+      "Haploid and diploid stages",
+      "Two diploid stages only",
+      "Three unrelated species"
+    ],
+    "correct": 0,
+    "explanation": "Gametophytes and sporophytes differ in ploidy.",
+    "os": 25,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/25-review-questions"
+  },
+  {
+    "id": "p058",
+    "chapter": 29,
+    "kind": "public",
+    "question": "Which innovation helps support taller land plants?",
+    "options": [
+      "Lignified conducting tissue",
+      "Loss of all walls",
+      "Smaller chloroplasts only"
+    ],
+    "correct": 0,
+    "explanation": "Reinforced tissue supports transport and height.",
+    "os": 25,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/25-review-questions"
+  },
+  {
+    "id": "p059",
+    "chapter": 30,
+    "kind": "public",
+    "question": "What carries sperm-producing cells without requiring free-standing water?",
+    "options": [
+      "Pollen",
+      "A root hair",
+      "A sepal"
+    ],
+    "correct": 0,
+    "explanation": "Pollen transport reduces reproductive dependence on water.",
+    "os": 26,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/26-review-questions"
+  },
+  {
+    "id": "p060",
+    "chapter": 30,
+    "kind": "public",
+    "question": "Which structure protects an embryo and aids dispersal?",
+    "options": [
+      "Seed",
+      "Stigma alone",
+      "Stoma"
+    ],
+    "correct": 0,
+    "explanation": "Seeds package embryos with protection and reserves.",
+    "os": 26,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/26-review-questions"
+  },
+  {
+    "id": "p061",
+    "chapter": 31,
+    "kind": "public",
+    "question": "Which structural polymer is common in fungal walls?",
+    "options": [
+      "Chitin",
+      "Glycogen",
+      "Starch"
+    ],
+    "correct": 0,
+    "explanation": "Fungal walls differ from cellulose-rich plant walls.",
+    "os": 24,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/24-review-questions"
+  },
+  {
+    "id": "p062",
+    "chapter": 31,
+    "kind": "public",
+    "question": "A cross-wall partitioning a fungal hypha is called a…",
+    "options": [
+      "Septum",
+      "Stoma",
+      "Nucleolus"
+    ],
+    "correct": 0,
+    "explanation": "Septa subdivide many fungal filaments.",
+    "os": 24,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/24-review-questions"
+  },
+  {
+    "id": "p063",
+    "chapter": 32,
+    "kind": "public",
+    "question": "When are the primary embryonic tissue layers established?",
+    "options": [
+      "Gastrulation",
+      "Adult molting",
+      "Fertilization alone"
+    ],
+    "correct": 0,
+    "explanation": "Cell movements establish germ layers.",
+    "os": 27,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/27-review-questions"
+  },
+  {
+    "id": "p064",
+    "chapter": 32,
+    "kind": "public",
+    "question": "A Hox-gene change most directly risks altering…",
+    "options": [
+      "Body-region identity",
+      "Water polarity",
+      "The genetic code universally"
+    ],
+    "correct": 0,
+    "explanation": "Hox genes help specify positional identities.",
+    "os": 27,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/27-review-questions"
+  },
+  {
+    "id": "p065",
+    "chapter": 33,
+    "kind": "public",
+    "question": "Stinging cnidocytes identify which animal group?",
+    "options": [
+      "Cnidarians",
+      "Annelids",
+      "Sponges"
+    ],
+    "correct": 0,
+    "explanation": "These specialized cells contain discharge structures.",
+    "os": 28,
+    "sourceQuestion": 7,
+    "url": "https://openstax.org/books/biology-2e/pages/28-review-questions"
+  },
+  {
+    "id": "p066",
+    "chapter": 33,
+    "kind": "public",
+    "question": "Which group has a mantle that can secrete a shell?",
+    "options": [
+      "Molluscs",
+      "Nematodes",
+      "Flatworms"
+    ],
+    "correct": 0,
+    "explanation": "The mantle is a defining molluscan feature.",
+    "os": 28,
+    "sourceQuestion": 13,
+    "url": "https://openstax.org/books/biology-2e/pages/28-review-questions"
+  },
+  {
+    "id": "p067",
+    "chapter": 34,
+    "kind": "public",
+    "question": "Sharks differ from typical bony fish mainly in having…",
+    "options": [
+      "A cartilaginous skeleton",
+      "No vertebrate ancestry",
+      "Six paired limbs"
+    ],
+    "correct": 0,
+    "explanation": "Their internal skeleton is primarily cartilage.",
+    "os": 29,
+    "sourceQuestion": 7,
+    "url": "https://openstax.org/books/biology-2e/pages/29-review-questions"
+  },
+  {
+    "id": "p068",
+    "chapter": 34,
+    "kind": "public",
+    "question": "Which living invertebrate chordates are especially close to vertebrates?",
+    "options": [
+      "Tunicates",
+      "Earthworms",
+      "Jellyfish"
+    ],
+    "correct": 0,
+    "explanation": "Molecular evidence places tunicates close to vertebrates.",
+    "os": 29,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/29-review-questions"
+  },
+  {
+    "id": "p069",
+    "chapter": 35,
+    "kind": "public",
+    "question": "Persistent plant growth occurs in regions of dividing cells called…",
+    "options": [
+      "Meristems",
+      "Stomata",
+      "Heartwood"
+    ],
+    "correct": 0,
+    "explanation": "Meristems continually generate new cells.",
+    "os": 30,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/30-review-questions"
+  },
+  {
+    "id": "p070",
+    "chapter": 35,
+    "kind": "public",
+    "question": "Which meristems lengthen roots and shoots?",
+    "options": [
+      "Apical",
+      "Vascular cambium",
+      "Cork cambium"
+    ],
+    "correct": 0,
+    "explanation": "Primary growth increases length.",
+    "os": 30,
+    "sourceQuestion": 9,
+    "url": "https://openstax.org/books/biology-2e/pages/30-review-questions"
+  },
+  {
+    "id": "p071",
+    "chapter": 36,
+    "kind": "public",
+    "question": "Opening stomata usually increases which water process?",
+    "options": [
+      "Transpiration",
+      "Water synthesis",
+      "Root freezing"
+    ],
+    "correct": 0,
+    "explanation": "Open pores allow more vapor escape.",
+    "os": 30,
+    "sourceQuestion": 19,
+    "url": "https://openstax.org/books/biology-2e/pages/30-review-questions"
+  },
+  {
+    "id": "p072",
+    "chapter": 36,
+    "kind": "public",
+    "question": "Which tissue moves photosynthetic sugars between plant organs?",
+    "options": [
+      "Phloem",
+      "Xylem alone",
+      "Cork"
+    ],
+    "correct": 0,
+    "explanation": "Sieve tubes transport sugars.",
+    "os": 30,
+    "sourceQuestion": 20,
+    "url": "https://openstax.org/books/biology-2e/pages/30-review-questions"
+  },
+  {
+    "id": "p073",
+    "chapter": 37,
+    "kind": "public",
+    "question": "Which microbial process converts atmospheric N₂ into ammonia?",
+    "options": [
+      "Nitrogen fixation",
+      "Denitrification",
+      "Evaporation"
+    ],
+    "correct": 0,
+    "explanation": "Fixed nitrogen becomes available for biological use.",
+    "os": 31,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/31-review-questions"
+  },
+  {
+    "id": "p074",
+    "chapter": 37,
+    "kind": "public",
+    "question": "Mycorrhizal partners especially help roots obtain…",
+    "options": [
+      "Phosphate",
+      "Sunlight",
+      "Oxygen from leaves"
+    ],
+    "correct": 0,
+    "explanation": "Fungal hyphae increase nutrient-absorbing reach.",
+    "os": 31,
+    "sourceQuestion": 13,
+    "url": "https://openstax.org/books/biology-2e/pages/31-review-questions"
+  },
+  {
+    "id": "p075",
+    "chapter": 38,
+    "kind": "public",
+    "question": "Double fertilization ordinarily produces a zygote and…",
+    "options": [
+      "Endosperm",
+      "A second root cap",
+      "Pollen"
+    ],
+    "correct": 0,
+    "explanation": "A second sperm contributes to nutritive tissue.",
+    "os": 32,
+    "sourceQuestion": 8,
+    "url": "https://openstax.org/books/biology-2e/pages/32-review-questions"
+  },
+  {
+    "id": "p076",
+    "chapter": 38,
+    "kind": "public",
+    "question": "After fertilization, an ovule develops into a…",
+    "options": [
+      "Seed",
+      "Petal",
+      "Stigma"
+    ],
+    "correct": 0,
+    "explanation": "The surrounding ovary contributes to the fruit.",
+    "os": 32,
+    "sourceQuestion": 9,
+    "url": "https://openstax.org/books/biology-2e/pages/32-review-questions"
+  },
+  {
+    "id": "p077",
+    "chapter": 39,
+    "kind": "public",
+    "question": "Blue-light-directed shoot bending chiefly begins with…",
+    "options": [
+      "Phototropins",
+      "Hemoglobin",
+      "Rubisco"
+    ],
+    "correct": 0,
+    "explanation": "These receptors initiate phototropic signaling.",
+    "os": 30,
+    "sourceQuestion": 21,
+    "url": "https://openstax.org/books/biology-2e/pages/30-review-questions"
+  },
+  {
+    "id": "p078",
+    "chapter": 39,
+    "kind": "public",
+    "question": "Which gaseous signal promotes ripening in many fruits?",
+    "options": [
+      "Ethylene",
+      "Insulin",
+      "Pepsin"
+    ],
+    "correct": 0,
+    "explanation": "Ethylene coordinates ripening responses.",
+    "os": 30,
+    "sourceQuestion": 24,
+    "url": "https://openstax.org/books/biology-2e/pages/30-review-questions"
+  },
+  {
+    "id": "p079",
+    "chapter": 40,
+    "kind": "public",
+    "question": "Which lining best permits rapid diffusion?",
+    "options": [
+      "Thin squamous epithelium",
+      "Thick keratin layers",
+      "Dense cartilage"
+    ],
+    "correct": 0,
+    "explanation": "A short diffusion path speeds exchange.",
+    "os": 33,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/33-review-questions"
+  },
+  {
+    "id": "p080",
+    "chapter": 40,
+    "kind": "public",
+    "question": "Which response opposes an initial glucose rise?",
+    "options": [
+      "Insulin promotes glucose uptake",
+      "Clotting amplifies clotting",
+      "Labor strengthens contractions"
+    ],
+    "correct": 0,
+    "explanation": "Negative feedback counteracts the initial change.",
+    "os": 33,
+    "sourceQuestion": 24,
+    "url": "https://openstax.org/books/biology-2e/pages/33-review-questions"
+  },
+  {
+    "id": "p081",
+    "chapter": 41,
+    "kind": "public",
+    "question": "What neutralizes acidic material entering the small intestine?",
+    "options": [
+      "Bicarbonate",
+      "Extra hydrochloric acid",
+      "Pepsin alone"
+    ],
+    "correct": 0,
+    "explanation": "Base buffers acid arriving from the stomach.",
+    "os": 34,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/34-review-questions"
+  },
+  {
+    "id": "p082",
+    "chapter": 41,
+    "kind": "public",
+    "question": "How do animals store much of their readily available carbohydrate?",
+    "options": [
+      "Glycogen",
+      "Cellulose",
+      "Chitin"
+    ],
+    "correct": 0,
+    "explanation": "Liver and muscle store glucose in glycogen.",
+    "os": 34,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/34-review-questions"
+  },
+  {
+    "id": "p083",
+    "chapter": 42,
+    "kind": "public",
+    "question": "Which circuit returns blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary",
+      "Systemic",
+      "Digestive"
+    ],
+    "correct": 0,
+    "explanation": "Pulmonary circulation connects heart and lungs.",
+    "os": 40,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/40-review-questions"
+  },
+  {
+    "id": "p084",
+    "chapter": 42,
+    "kind": "public",
+    "question": "Most transported CO₂ in human blood is present as…",
+    "options": [
+      "Bicarbonate",
+      "Dissolved oxygen",
+      "Solid carbon"
+    ],
+    "correct": 0,
+    "explanation": "CO₂ is converted largely to bicarbonate ions.",
+    "os": 39,
+    "sourceQuestion": 14,
+    "url": "https://openstax.org/books/biology-2e/pages/39-review-questions"
+  },
+  {
+    "id": "p085",
+    "chapter": 43,
+    "kind": "public",
+    "question": "Reactivated memory B cells can become antibody-secreting…",
+    "options": [
+      "Plasma cells",
+      "Red blood cells",
+      "Platelets"
+    ],
+    "correct": 0,
+    "explanation": "Plasma cells secrete antigen-specific antibodies.",
+    "os": 42,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/42-review-questions"
+  },
+  {
+    "id": "p086",
+    "chapter": 43,
+    "kind": "public",
+    "question": "Maternal antibodies transferred to an infant provide…",
+    "options": [
+      "Passive protection",
+      "The infant's own vaccination response",
+      "Autoimmunity"
+    ],
+    "correct": 0,
+    "explanation": "Protection comes from another individual's antibodies.",
+    "os": 42,
+    "sourceQuestion": 17,
+    "url": "https://openstax.org/books/biology-2e/pages/42-review-questions"
+  },
+  {
+    "id": "p087",
+    "chapter": 44,
+    "kind": "public",
+    "question": "A cell placed in a strongly hypertonic solution tends to…",
+    "options": [
+      "Lose water",
+      "Gain water",
+      "Double its chromosomes"
+    ],
+    "correct": 0,
+    "explanation": "Water moves toward greater effective solute concentration.",
+    "os": 41,
+    "sourceQuestion": 6,
+    "url": "https://openstax.org/books/biology-2e/pages/41-review-questions"
+  },
+  {
+    "id": "p088",
+    "chapter": 44,
+    "kind": "public",
+    "question": "Humans excrete much of their nitrogen waste as…",
+    "options": [
+      "Urea",
+      "Uric acid only",
+      "Ammonia gas"
+    ],
+    "correct": 0,
+    "explanation": "Urea carries nitrogen with reduced toxicity.",
+    "os": 41,
+    "sourceQuestion": 14,
+    "url": "https://openstax.org/books/biology-2e/pages/41-review-questions"
+  },
+  {
+    "id": "p089",
+    "chapter": 45,
+    "kind": "public",
+    "question": "Which hormones often cross membranes and bind intracellular receptors?",
+    "options": [
+      "Steroids",
+      "Large peptides",
+      "Proteins universally"
+    ],
+    "correct": 0,
+    "explanation": "Lipid solubility permits membrane entry.",
+    "os": 37,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/37-review-questions"
+  },
+  {
+    "id": "p090",
+    "chapter": 45,
+    "kind": "public",
+    "question": "Pancreatic beta cells secrete which glucose-regulating signal?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Aldosterone"
+    ],
+    "correct": 0,
+    "explanation": "Insulin generally promotes glucose uptake and storage.",
+    "os": 37,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/37-review-questions"
+  },
+  {
+    "id": "p091",
+    "chapter": 46,
+    "kind": "public",
+    "question": "Where does sperm formation occur in the testes?",
+    "options": [
+      "Seminiferous tubules",
+      "Prostate ducts",
+      "Seminal vesicles"
+    ],
+    "correct": 0,
+    "explanation": "Developing sperm arise within these tubules.",
+    "os": 43,
+    "sourceQuestion": 11,
+    "url": "https://openstax.org/books/biology-2e/pages/43-review-questions"
+  },
+  {
+    "id": "p092",
+    "chapter": 46,
+    "kind": "public",
+    "question": "Which pituitary hormone surge triggers ovulation?",
+    "options": [
+      "LH",
+      "ADH",
+      "TSH"
+    ],
+    "correct": 0,
+    "explanation": "The LH surge promotes egg release.",
+    "os": 43,
+    "sourceQuestion": 19,
+    "url": "https://openstax.org/books/biology-2e/pages/43-review-questions"
+  },
+  {
+    "id": "p093",
+    "chapter": 47,
+    "kind": "public",
+    "question": "Early cleavage typically changes cell number while total embryo volume…",
+    "options": [
+      "Stays roughly similar",
+      "Doubles each division",
+      "Falls to zero"
+    ],
+    "correct": 0,
+    "explanation": "Cleavage partitions existing cytoplasm.",
+    "os": 43,
+    "sourceQuestion": 28,
+    "url": "https://openstax.org/books/biology-2e/pages/43-review-questions"
+  },
+  {
+    "id": "p094",
+    "chapter": 47,
+    "kind": "public",
+    "question": "Which germ layer produces the epidermis?",
+    "options": [
+      "Ectoderm",
+      "Endoderm",
+      "Mesoderm"
+    ],
+    "correct": 0,
+    "explanation": "Ectoderm contributes outer covering and nervous tissue.",
+    "os": 43,
+    "sourceQuestion": 29,
+    "url": "https://openstax.org/books/biology-2e/pages/43-review-questions"
+  },
+  {
+    "id": "p095",
+    "chapter": 48,
+    "kind": "public",
+    "question": "An action potential begins when depolarization reaches…",
+    "options": [
+      "Threshold",
+      "Absolute zero",
+      "Any arbitrary voltage"
+    ],
+    "correct": 0,
+    "explanation": "Threshold recruits regenerative channel opening.",
+    "os": 35,
+    "sourceQuestion": 8,
+    "url": "https://openstax.org/books/biology-2e/pages/35-review-questions"
+  },
+  {
+    "id": "p096",
+    "chapter": 48,
+    "kind": "public",
+    "question": "Which ion efflux helps repolarize a typical neuronal action potential?",
+    "options": [
+      "K⁺",
+      "Ca²⁺ alone",
+      "Cl⁻ leaving universally"
+    ],
+    "correct": 0,
+    "explanation": "Potassium exits through voltage-gated channels.",
+    "os": 35,
+    "sourceQuestion": 9,
+    "url": "https://openstax.org/books/biology-2e/pages/35-review-questions"
+  },
+  {
+    "id": "p097",
+    "chapter": 49,
+    "kind": "public",
+    "question": "Which cerebral lobe contains primary visual cortex?",
+    "options": [
+      "Occipital",
+      "Frontal",
+      "Temporal only"
+    ],
+    "correct": 0,
+    "explanation": "Visual processing begins in occipital cortex.",
+    "os": 35,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/35-review-questions"
+  },
+  {
+    "id": "p098",
+    "chapter": 49,
+    "kind": "public",
+    "question": "What major tract links the two cerebral hemispheres?",
+    "options": [
+      "Corpus callosum",
+      "Optic lens",
+      "Cochlea"
+    ],
+    "correct": 0,
+    "explanation": "Axons there connect the hemispheres.",
+    "os": 35,
+    "sourceQuestion": 13,
+    "url": "https://openstax.org/books/biology-2e/pages/35-review-questions"
+  },
+  {
+    "id": "p099",
+    "chapter": 50,
+    "kind": "public",
+    "question": "Converting stimulus energy into receptor activity is sensory…",
+    "options": [
+      "Transduction",
+      "Digestion",
+      "Replication"
+    ],
+    "correct": 0,
+    "explanation": "Receptors convert physical input into biological signals.",
+    "os": 36,
+    "sourceQuestion": 5,
+    "url": "https://openstax.org/books/biology-2e/pages/36-review-questions"
+  },
+  {
+    "id": "p100",
+    "chapter": 50,
+    "kind": "public",
+    "question": "What covers actin's myosin-binding sites in relaxed skeletal muscle?",
+    "options": [
+      "Tropomyosin",
+      "Hemoglobin",
+      "Elastin"
+    ],
+    "correct": 0,
+    "explanation": "Calcium-triggered changes expose the binding sites.",
+    "os": 38,
+    "sourceQuestion": 20,
+    "url": "https://openstax.org/books/biology-2e/pages/38-review-questions"
+  },
+  {
+    "id": "p101",
+    "chapter": 51,
+    "kind": "public",
+    "question": "An animal improves maze navigation through experience. This demonstrates…",
+    "options": [
+      "Learning",
+      "Only inherited reflexes",
+      "Osmosis"
+    ],
+    "correct": 0,
+    "explanation": "Experience changes subsequent behavior.",
+    "os": 45,
+    "sourceQuestion": 26,
+    "url": "https://openstax.org/books/biology-2e/pages/45-review-questions"
+  },
+  {
+    "id": "p102",
+    "chapter": 51,
+    "kind": "public",
+    "question": "Helping relatives reproduce can increase which component of fitness?",
+    "options": [
+      "Indirect fitness",
+      "Only personal offspring count",
+      "Abiotic fitness"
+    ],
+    "correct": 0,
+    "explanation": "Shared alleles connect kin success to inclusive fitness.",
+    "os": 45,
+    "sourceQuestion": 28,
+    "url": "https://openstax.org/books/biology-2e/pages/45-review-questions"
+  },
+  {
+    "id": "p103",
+    "chapter": 52,
+    "kind": "public",
+    "question": "Which environmental influence is living?",
+    "options": [
+      "A fungal pathogen",
+      "Rainfall",
+      "Wind"
+    ],
+    "correct": 0,
+    "explanation": "Biotic factors involve organisms.",
+    "os": 44,
+    "sourceQuestion": 4,
+    "url": "https://openstax.org/books/biology-2e/pages/44-review-questions"
+  },
+  {
+    "id": "p104",
+    "chapter": 52,
+    "kind": "public",
+    "question": "An estuary is characterized by mixing…",
+    "options": [
+      "River water and seawater",
+      "Lava and ice",
+      "Only freshwater streams"
+    ],
+    "correct": 0,
+    "explanation": "Mixing creates a variable salinity gradient.",
+    "os": 44,
+    "sourceQuestion": 11,
+    "url": "https://openstax.org/books/biology-2e/pages/44-review-questions"
+  },
+  {
+    "id": "p105",
+    "chapter": 53,
+    "kind": "public",
+    "question": "Which growth model includes slowing as resources become limiting?",
+    "options": [
+      "Logistic",
+      "Unbounded exponential",
+      "Constant doubling forever"
+    ],
+    "correct": 0,
+    "explanation": "Density dependence reduces per-capita growth.",
+    "os": 45,
+    "sourceQuestion": 11,
+    "url": "https://openstax.org/books/biology-2e/pages/45-review-questions"
+  },
+  {
+    "id": "p106",
+    "chapter": 53,
+    "kind": "public",
+    "question": "The population an environment can sustain is its…",
+    "options": [
+      "Carrying capacity",
+      "Mutation rate",
+      "Trophic efficiency"
+    ],
+    "correct": 0,
+    "explanation": "Resource supply constrains long-term abundance.",
+    "os": 45,
+    "sourceQuestion": 13,
+    "url": "https://openstax.org/books/biology-2e/pages/45-review-questions"
+  },
+  {
+    "id": "p107",
+    "chapter": 54,
+    "kind": "public",
+    "question": "Several defended species share warning colors. Which mimicry is this?",
+    "options": [
+      "Müllerian",
+      "Batesian",
+      "Camouflage only"
+    ],
+    "correct": 0,
+    "explanation": "Each defended species reinforces predator learning.",
+    "os": 45,
+    "sourceQuestion": 23,
+    "url": "https://openstax.org/books/biology-2e/pages/45-review-questions"
+  },
+  {
+    "id": "p108",
+    "chapter": 54,
+    "kind": "public",
+    "question": "Both partners benefit from an association. This is…",
+    "options": [
+      "Mutualism",
+      "Parasitism",
+      "Competition"
+    ],
+    "correct": 0,
+    "explanation": "The interaction has positive effects on both partners.",
+    "os": 45,
+    "sourceQuestion": 24,
+    "url": "https://openstax.org/books/biology-2e/pages/45-review-questions"
+  },
+  {
+    "id": "p109",
+    "chapter": 55,
+    "kind": "public",
+    "question": "A snapshot of living material in an ecosystem measures…",
+    "options": [
+      "Biomass",
+      "Productivity per year",
+      "Respiration rate"
+    ],
+    "correct": 0,
+    "explanation": "Biomass is a stock, not a rate.",
+    "os": 46,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/46-review-questions"
+  },
+  {
+    "id": "p110",
+    "chapter": 55,
+    "kind": "public",
+    "question": "A persistent toxin becomes more concentrated at higher feeding levels. This is…",
+    "options": [
+      "Biomagnification",
+      "Nitrogen fixation",
+      "Primary production"
+    ],
+    "correct": 0,
+    "explanation": "Toxins can concentrate along food chains.",
+    "os": 46,
+    "sourceQuestion": 13,
+    "url": "https://openstax.org/books/biology-2e/pages/46-review-questions"
+  },
+  {
+    "id": "p111",
+    "chapter": 56,
+    "kind": "public",
+    "question": "Crop pollination by wild animals illustrates…",
+    "options": [
+      "An ecosystem service",
+      "Only genetic drift",
+      "A fossil record"
+    ],
+    "correct": 0,
+    "explanation": "Ecological processes can provide human benefits.",
+    "os": 47,
+    "sourceQuestion": 10,
+    "url": "https://openstax.org/books/biology-2e/pages/47-review-questions"
+  },
+  {
+    "id": "p112",
+    "chapter": 56,
+    "kind": "public",
+    "question": "Wildlife trade can threaten species through collection and…",
+    "options": [
+      "Introduced populations",
+      "Reduced mutation universally",
+      "Extra photosynthesis"
+    ],
+    "correct": 0,
+    "explanation": "Escaped traded organisms may become invasive.",
+    "os": 47,
+    "sourceQuestion": 12,
+    "url": "https://openstax.org/books/biology-2e/pages/47-review-questions"
+  },
+  {
+    "id": "c001",
+    "chapter": 1,
+    "kind": "concept",
+    "question": "A fertilizer study uses one sunny fertilized plot and one shaded untreated plot. What prevents a causal conclusion?",
+    "options": [
+      "Light and fertilizer change together",
+      "Plants cannot be experimental subjects",
+      "Two variables always improve a control"
+    ],
+    "correct": 0,
+    "explanation": "The treatment is confounded with light. Randomize replicated plots while holding other conditions comparable."
+  },
+  {
+    "id": "c002",
+    "chapter": 2,
+    "kind": "concept",
+    "question": "A sodium atom loses an electron. What changes immediately?",
+    "options": [
+      "Its net charge",
+      "Its element identity",
+      "Its proton number"
+    ],
+    "correct": 0,
+    "explanation": "Electron loss creates a positive ion; the proton count still identifies sodium."
+  },
+  {
+    "id": "c003",
+    "chapter": 3,
+    "kind": "concept",
+    "question": "A lake freezes at the surface while liquid water remains below. Which molecular property helps explain this?",
+    "options": [
+      "Ice forms a more open hydrogen-bonded structure",
+      "Frozen water molecules become heavier",
+      "Covalent bonds disappear in liquid water"
+    ],
+    "correct": 0,
+    "explanation": "The open crystal structure makes ice less dense. Floating ice can insulate liquid water below."
+  },
+  {
+    "id": "c004",
+    "chapter": 4,
+    "kind": "concept",
+    "question": "Two molecules have the same formula but their mirror images cannot be superimposed. Why might only one activate a receptor?",
+    "options": [
+      "The binding site has a specific three-dimensional shape",
+      "One molecule has different elements",
+      "Mirror images always have different masses"
+    ],
+    "correct": 0,
+    "explanation": "A chiral receptor may interact differently with two enantiomers despite their identical formula."
+  },
+  {
+    "id": "c005",
+    "chapter": 5,
+    "kind": "concept",
+    "question": "Heating an enzyme abolishes activity without breaking its peptide backbone. Which level is certainly preserved?",
+    "options": [
+      "Amino acid sequence",
+      "The original active-site shape",
+      "All subunit interactions"
+    ],
+    "correct": 0,
+    "explanation": "Denaturation disrupts folding; the primary sequence can remain intact even when function is lost."
+  },
+  {
+    "id": "c006",
+    "chapter": 6,
+    "kind": "concept",
+    "question": "A secreted protein accumulates inside rough ER after Golgi transport is blocked. What is most directly disrupted?",
+    "options": [
+      "Delivery through the secretory pathway",
+      "DNA replication in the nucleus",
+      "ATP synthesis by every mitochondrion"
+    ],
+    "correct": 0,
+    "explanation": "Secreted proteins pass through ER and Golgi before vesicles deliver them to the cell surface."
+  },
+  {
+    "id": "c007",
+    "chapter": 7,
+    "kind": "concept",
+    "question": "A membrane passes water but not sucrose. One side has more sucrose. Initially, water tends to move…",
+    "options": [
+      "Toward the higher sucrose concentration",
+      "Toward the lower sucrose concentration",
+      "Equally with no net flow under all conditions"
+    ],
+    "correct": 0,
+    "explanation": "With equal initial pressure, water moves toward the side with lower water potential. Pressure can eventually balance the osmotic effect."
+  },
+  {
+    "id": "c008",
+    "chapter": 8,
+    "kind": "concept",
+    "question": "An enzyme is added to a closed reversible reaction already at equilibrium. What changes?",
+    "options": [
+      "Forward and reverse reactions become faster",
+      "The equilibrium shifts toward products",
+      "The overall reaction gains free energy"
+    ],
+    "correct": 0,
+    "explanation": "Catalysis lowers activation barriers for both directions. It changes kinetics, not the equilibrium constant or overall ΔG."
+  },
+  {
+    "id": "c009",
+    "chapter": 9,
+    "kind": "concept",
+    "question": "A compound makes the inner mitochondrial membrane freely permeable to protons. With fuel and oxygen available, what happens?",
+    "options": [
+      "ATP yield falls as the proton gradient dissipates",
+      "ATP synthase works indefinitely without a gradient",
+      "The citric acid cycle becomes photosynthesis"
+    ],
+    "correct": 0,
+    "explanation": "Uncoupling allows electron transfer without efficient ATP production. Energy is dissipated, often as heat."
+  },
+  {
+    "id": "c010",
+    "chapter": 10,
+    "kind": "concept",
+    "question": "Stomata close during a hot day. Why can photorespiration increase in a C₃ leaf?",
+    "options": [
+      "CO₂ falls relative to O₂ near rubisco",
+      "Rubisco stops binding oxygen entirely",
+      "The Calvin cycle begins producing photons"
+    ],
+    "correct": 0,
+    "explanation": "Lower internal CO₂ favors rubisco's oxygenase reaction. This competes with productive carbon fixation."
+  },
+  {
+    "id": "c011",
+    "chapter": 11,
+    "kind": "concept",
+    "question": "Two cell types encounter the same hormone but produce different responses. Best explanation?",
+    "options": [
+      "They differ in receptors or downstream machinery",
+      "The hormone must have different atoms in each tissue",
+      "All signals directly mutate DNA"
+    ],
+    "correct": 0,
+    "explanation": "A signal's effect depends on the receiving cell's receptors, relay proteins, and targets."
+  },
+  {
+    "id": "c012",
+    "chapter": 12,
+    "kind": "concept",
+    "question": "Every chromosome but one is attached correctly to the spindle. Why should anaphase wait?",
+    "options": [
+      "An unattached kinetochore can activate the spindle checkpoint",
+      "DNA synthesis needs to start again",
+      "The cell must become haploid before mitosis"
+    ],
+    "correct": 0,
+    "explanation": "The checkpoint delays chromatid separation until chromosomes are properly attached, reducing segregation errors."
+  },
+  {
+    "id": "c013",
+    "chapter": 13,
+    "kind": "concept",
+    "question": "After meiosis I, each daughter cell has one member of each homologous pair, still with two chromatids. It is…",
+    "options": [
+      "Haploid with duplicated chromosomes",
+      "Diploid because chromatids always count as homologs",
+      "Tetraploid until cytokinesis ends"
+    ],
+    "correct": 0,
+    "explanation": "Ploidy counts chromosome sets, not chromatids or DNA molecules. Sister chromatids separate in meiosis II."
+  },
+  {
+    "id": "c014",
+    "chapter": 14,
+    "kind": "concept",
+    "question": "Two unaffected parents have an affected child under a simple autosomal recessive model. What is the probability their next child is affected?",
+    "options": [
+      "One quarter",
+      "One half",
+      "Zero after the first affected child"
+    ],
+    "correct": 0,
+    "explanation": "Both parents are carriers in this model. Each conception is an independent Aa × Aa event."
+  },
+  {
+    "id": "c015",
+    "chapter": 15,
+    "kind": "concept",
+    "question": "A testcross gives 45% AB, 45% ab, 5% Ab, and 5% aB offspring. What is the estimated distance between loci?",
+    "options": [
+      "10 map units",
+      "5 map units",
+      "90 map units"
+    ],
+    "correct": 0,
+    "explanation": "The two recombinant classes total 10%. For short intervals, percent recombination approximates map distance."
+  },
+  {
+    "id": "c016",
+    "chapter": 16,
+    "kind": "concept",
+    "question": "Both new DNA strands grow 5′ to 3′. Why is one made in fragments at a replication fork?",
+    "options": [
+      "The parental strands are antiparallel",
+      "Polymerase changes direction every second",
+      "Only one strand has complementary bases"
+    ],
+    "correct": 0,
+    "explanation": "Polymerase can extend only a 3′ end. Antiparallel templates require discontinuous synthesis on the lagging strand."
+  },
+  {
+    "id": "c017",
+    "chapter": 17,
+    "kind": "concept",
+    "question": "One nucleotide is inserted near the beginning of a coding sequence. Why can many downstream amino acids change?",
+    "options": [
+      "The grouping into codons shifts",
+      "Every codon becomes the same nucleotide",
+      "All insertions leave translation unchanged"
+    ],
+    "correct": 0,
+    "explanation": "A single-base insertion usually changes the reading frame unless compensated. A three-base insertion may preserve the downstream frame."
+  },
+  {
+    "id": "c018",
+    "chapter": 18,
+    "kind": "concept",
+    "question": "A liver cell and a neuron have mostly the same DNA. Why do their proteomes differ?",
+    "options": [
+      "They regulate different genes and RNAs",
+      "They use different universal genetic codes",
+      "Neurons lack chromosomes"
+    ],
+    "correct": 0,
+    "explanation": "Cell identity depends heavily on differential expression, RNA processing, and protein regulation."
+  },
+  {
+    "id": "c019",
+    "chapter": 19,
+    "kind": "concept",
+    "question": "An antibiotic targets bacterial ribosomes. Why is it unlikely to stop an ordinary viral infection directly?",
+    "options": [
+      "Viruses lack their own ribosomes",
+      "All viruses are larger than bacteria",
+      "Antibiotics cannot enter any cells"
+    ],
+    "correct": 0,
+    "explanation": "Viruses use host translation machinery. A bacterial ribosome-specific drug lacks the same target in viruses."
+  },
+  {
+    "id": "c020",
+    "chapter": 20,
+    "kind": "concept",
+    "question": "PCR yields no product when one primer cannot bind. Why?",
+    "options": [
+      "Repeated copying requires correctly positioned extendable primers",
+      "DNA polymerase can copy only proteins",
+      "One primer normally destroys both templates"
+    ],
+    "correct": 0,
+    "explanation": "Two primers define opposite ends of the target on complementary strands. Missing priming prevents normal exponential amplification."
+  },
+  {
+    "id": "c021",
+    "chapter": 21,
+    "kind": "concept",
+    "question": "Two genes in one species arose from duplication of one ancestral gene. Their relationship is…",
+    "options": [
+      "Paralogy",
+      "Orthology between species",
+      "Unrelated chemical convergence"
+    ],
+    "correct": 0,
+    "explanation": "Duplicated genes are paralogs. They may retain, divide, or acquire functions as mutations accumulate."
+  },
+  {
+    "id": "c022",
+    "chapter": 22,
+    "kind": "concept",
+    "question": "A pesticide kills susceptible insects; resistant survivors leave more offspring. Which interpretation is supported?",
+    "options": [
+      "Selection changed the representation of inherited variants",
+      "The pesticide intentionally created exactly the needed allele",
+      "Each susceptible insect evolved during spraying"
+    ],
+    "correct": 0,
+    "explanation": "Selection acts through differential reproductive success. It does not imply mutations arise because organisms need them."
+  },
+  {
+    "id": "c023",
+    "chapter": 23,
+    "kind": "concept",
+    "question": "A storm randomly leaves ten survivors from a large population. An allele becomes common despite no survival advantage. This is…",
+    "options": [
+      "Genetic drift through a bottleneck",
+      "Directional selection proved by survival",
+      "Mutation guided by the storm"
+    ],
+    "correct": 0,
+    "explanation": "A random sample can shift frequencies sharply when population size collapses."
+  },
+  {
+    "id": "c024",
+    "chapter": 24,
+    "kind": "concept",
+    "question": "Two plant populations overlap geographically but flower in different months. Which barrier acts first?",
+    "options": [
+      "Temporal prezygotic isolation",
+      "Hybrid sterility after fertilization",
+      "A physical ocean barrier"
+    ],
+    "correct": 0,
+    "explanation": "Different reproductive timing can prevent mating before zygotes form."
+  },
+  {
+    "id": "c025",
+    "chapter": 25,
+    "kind": "concept",
+    "question": "Many lineages diversify after an extinction removes competitors. Which explanation is most plausible?",
+    "options": [
+      "Ecological opportunities permit adaptive radiation",
+      "Extinction guarantees directed progress",
+      "All surviving organisms acquire identical traits"
+    ],
+    "correct": 0,
+    "explanation": "Vacated niches can allow surviving lineages to diversify, though opportunities do not guarantee every lineage radiates."
+  },
+  {
+    "id": "c026",
+    "chapter": 26,
+    "kind": "concept",
+    "question": "Rotating two branches around a tree node changes the left-to-right tip order. What happens to relatedness?",
+    "options": [
+      "It stays the same",
+      "Every sister relationship reverses",
+      "The oldest species becomes youngest"
+    ],
+    "correct": 0,
+    "explanation": "Relatedness is encoded by branching connections, not the visual order of tips."
+  },
+  {
+    "id": "c027",
+    "chapter": 27,
+    "kind": "concept",
+    "question": "Resistance DNA moves from one bacterium to another through direct contact. Which process best fits?",
+    "options": [
+      "Conjugation",
+      "Mitosis",
+      "Translation"
+    ],
+    "correct": 0,
+    "explanation": "Conjugation can transfer DNA between cells. Horizontal transfer can spread traits without waiting for parent-offspring descent."
+  },
+  {
+    "id": "c028",
+    "chapter": 28,
+    "kind": "concept",
+    "question": "An alga contains a plastid surrounded by extra membranes and a remnant algal nucleus. What history does this suggest?",
+    "options": [
+      "Secondary endosymbiosis",
+      "De novo creation of a nucleus from sugar",
+      "A mitochondrion turning into a virus"
+    ],
+    "correct": 0,
+    "explanation": "Engulfing a eukaryotic alga can produce a plastid with additional membranes and sometimes a nucleomorph."
+  },
+  {
+    "id": "c029",
+    "chapter": 29,
+    "kind": "concept",
+    "question": "Why do many mosses still need surface water for sexual reproduction?",
+    "options": [
+      "Their flagellated sperm must reach eggs",
+      "All their spores swim",
+      "They lack any protection for embryos"
+    ],
+    "correct": 0,
+    "explanation": "Moss sperm move through water to eggs. This is a reproductive constraint even though other adaptations permit life on land."
+  },
+  {
+    "id": "c030",
+    "chapter": 30,
+    "kind": "concept",
+    "question": "Why is a pollen grain not equivalent to a seed?",
+    "options": [
+      "Pollen is a male gametophyte; a seed contains an embryo",
+      "Pollen always contains a diploid embryo",
+      "Seeds are haploid sperm cells"
+    ],
+    "correct": 0,
+    "explanation": "Pollen participates before fertilization; the seed develops afterward and contains the next sporophyte generation."
+  },
+  {
+    "id": "c031",
+    "chapter": 31,
+    "kind": "concept",
+    "question": "A fungus releases enzymes onto wood and then takes up small molecules. This is…",
+    "options": [
+      "External digestion followed by absorption",
+      "Photosynthesis without pigments",
+      "Ingestion into an animal stomach"
+    ],
+    "correct": 0,
+    "explanation": "Fungal enzymes break down large substrates outside the body. Hyphae then absorb usable products."
+  },
+  {
+    "id": "c032",
+    "chapter": 32,
+    "kind": "concept",
+    "question": "An adult sea star is radially symmetrical but its larva is bilateral. Why should classification consider more than the adult outline?",
+    "options": [
+      "Development and shared derived traits reveal ancestry",
+      "Larvae cannot provide evolutionary evidence",
+      "Radial adults must be cnidarians"
+    ],
+    "correct": 0,
+    "explanation": "Adult form alone can obscure ancestry. Echinoderm development and other evidence place them within Bilateria."
+  },
+  {
+    "id": "c033",
+    "chapter": 33,
+    "kind": "concept",
+    "question": "A soft-bodied mollusc has a muscular foot, visceral mass, and mantle but no external shell. Is it necessarily excluded from Mollusca?",
+    "options": [
+      "No; shells can be reduced or lost",
+      "Yes; all molluscs require external shells",
+      "Yes; soft tissues cannot classify animals"
+    ],
+    "correct": 0,
+    "explanation": "A group can retain its ancestry while losing a conspicuous feature. Multiple shared traits support classification."
+  },
+  {
+    "id": "c034",
+    "chapter": 34,
+    "kind": "concept",
+    "question": "Why was the amniotic egg significant for terrestrial reproduction?",
+    "options": [
+      "It provides a protected fluid environment for the embryo",
+      "It eliminates all gas exchange",
+      "It makes every egg viviparous"
+    ],
+    "correct": 0,
+    "explanation": "Extraembryonic membranes support embryonic development, exchange, and waste handling away from open water."
+  },
+  {
+    "id": "c035",
+    "chapter": 35,
+    "kind": "concept",
+    "question": "Removing a ring of bark including phloem but leaving xylem initially intact most directly disrupts…",
+    "options": [
+      "Sugar transport across the ring",
+      "All upward water transport immediately",
+      "All leaf photosynthesis instantly"
+    ],
+    "correct": 0,
+    "explanation": "Phloem occurs outside the vascular cambium. Roots may later decline when transport from photosynthetic sources is interrupted."
+  },
+  {
+    "id": "c036",
+    "chapter": 36,
+    "kind": "concept",
+    "question": "A leaf has water potential −0.9 MPa and its stem −0.5 MPa. Water initially tends to move…",
+    "options": [
+      "From stem to leaf",
+      "From leaf to stem",
+      "Toward the numerically larger negative magnitude only if ATP is used"
+    ],
+    "correct": 0,
+    "explanation": "Water moves from higher to lower water potential. −0.5 MPa is higher than −0.9 MPa."
+  },
+  {
+    "id": "c037",
+    "chapter": 37,
+    "kind": "concept",
+    "question": "A plant grows poorly without phosphorus even when given extra nitrogen. Why might nitrogen fail to rescue it?",
+    "options": [
+      "The missing essential nutrient remains limiting",
+      "All minerals perform identical functions",
+      "Nitrogen cannot enter living cells"
+    ],
+    "correct": 0,
+    "explanation": "Essential elements have distinct roles. Supplying one cannot substitute for another's chemical functions."
+  },
+  {
+    "id": "c038",
+    "chapter": 38,
+    "kind": "concept",
+    "question": "In a typical angiosperm, one sperm fuses with the egg and one with two polar nuclei. Resulting ploidies?",
+    "options": [
+      "Diploid embryo and triploid endosperm",
+      "Triploid embryo and diploid endosperm",
+      "Two haploid embryos"
+    ],
+    "correct": 0,
+    "explanation": "One plus one haploid set makes the zygote; one plus two sets makes the nutritive endosperm."
+  },
+  {
+    "id": "c039",
+    "chapter": 39,
+    "kind": "concept",
+    "question": "Light from one side causes a young shoot to bend toward it. Which growth pattern explains the bend?",
+    "options": [
+      "Greater elongation on the shaded side",
+      "Greater elongation on the illuminated side",
+      "Equal elongation on every side"
+    ],
+    "correct": 0,
+    "explanation": "Asymmetric auxin signaling promotes unequal elongation in the shoot. The longer shaded side bends it toward the light."
+  },
+  {
+    "id": "c040",
+    "chapter": 40,
+    "kind": "concept",
+    "question": "Core temperature rises and sweating increases; cooling then reduces sweating. This is…",
+    "options": [
+      "Negative feedback",
+      "An irreversible positive loop",
+      "A mutation in each skin cell"
+    ],
+    "correct": 0,
+    "explanation": "The response opposes the deviation from a regulated range and weakens as the deviation falls."
+  },
+  {
+    "id": "c041",
+    "chapter": 41,
+    "kind": "concept",
+    "question": "A person cannot produce pancreatic lipase. Which process is directly impaired?",
+    "options": [
+      "Hydrolysis of dietary triglycerides",
+      "Bile synthesis by every hepatocyte",
+      "Peptide synthesis on ribosomes"
+    ],
+    "correct": 0,
+    "explanation": "Lipase catalyzes fat digestion. Bile helps disperse fats but does not replace the missing catalytic reaction."
+  },
+  {
+    "id": "c042",
+    "chapter": 42,
+    "kind": "concept",
+    "question": "During exercise, working muscle is warmer and more acidic. What happens to hemoglobin's oxygen affinity locally?",
+    "options": [
+      "It decreases, aiding unloading",
+      "It increases, trapping all oxygen",
+      "It disappears permanently"
+    ],
+    "correct": 0,
+    "explanation": "Higher temperature and lower pH generally favor oxygen release where metabolism is active."
+  },
+  {
+    "id": "c043",
+    "chapter": 43,
+    "kind": "concept",
+    "question": "A second exposure produces a faster, stronger response to the same antigen. Which explanation fits?",
+    "options": [
+      "Memory lymphocytes persist after the first response",
+      "All barriers become permanently impenetrable",
+      "Antibodies replicate their own DNA"
+    ],
+    "correct": 0,
+    "explanation": "Clonal expansion and memory support faster secondary responses. Antibodies are proteins, not dividing cells."
+  },
+  {
+    "id": "c044",
+    "chapter": 44,
+    "kind": "concept",
+    "question": "Dehydration increases ADH. What direct kidney change helps conserve water?",
+    "options": [
+      "More water-permeable collecting ducts",
+      "Complete stopping of filtration in every nephron",
+      "Loss of the medullary gradient"
+    ],
+    "correct": 0,
+    "explanation": "ADH promotes aquaporin insertion. Water reabsorption depends on both permeability and an osmotic gradient."
+  },
+  {
+    "id": "c045",
+    "chapter": 45,
+    "kind": "concept",
+    "question": "A target cell reduces receptor number during prolonged high hormone exposure. What may follow?",
+    "options": [
+      "Reduced sensitivity to that hormone",
+      "Guaranteed absence of every response",
+      "Conversion of the hormone into DNA"
+    ],
+    "correct": 0,
+    "explanation": "Receptor downregulation can reduce responsiveness at a given hormone concentration."
+  },
+  {
+    "id": "c046",
+    "chapter": 46,
+    "kind": "concept",
+    "question": "Negative feedback from testosterone reduces hypothalamic GnRH and pituitary LH. What can this do to testicular stimulation?",
+    "options": [
+      "Reduce LH-driven testosterone production",
+      "Force LH secretion to increase indefinitely",
+      "Convert sperm into endocrine neurons"
+    ],
+    "correct": 0,
+    "explanation": "The axis regulates its output through feedback on upstream signals."
+  },
+  {
+    "id": "c047",
+    "chapter": 47,
+    "kind": "concept",
+    "question": "Two cells share the same genome but occupy different embryonic positions and receive different signals. What can diverge first?",
+    "options": [
+      "Their gene-expression patterns",
+      "The number of elements in DNA",
+      "The meaning of every codon"
+    ],
+    "correct": 0,
+    "explanation": "Cytoplasmic determinants and inductive signals can establish different regulatory states and cell fates."
+  },
+  {
+    "id": "c048",
+    "chapter": 48,
+    "kind": "concept",
+    "question": "A stronger stimulus produces the same size action potentials but more per second. How is intensity encoded here?",
+    "options": [
+      "Firing frequency",
+      "Larger individual spikes",
+      "A changed genetic code"
+    ],
+    "correct": 0,
+    "explanation": "Action potentials are approximately all-or-none. Frequency and population recruitment can encode stimulus intensity."
+  },
+  {
+    "id": "c049",
+    "chapter": 49,
+    "kind": "concept",
+    "question": "Damage disconnects an intact sensory pathway from a cortical association area. Why might detection remain while interpretation changes?",
+    "options": [
+      "Sensation and integration involve distinct processing stages",
+      "Sensory receptors contain all conscious meanings",
+      "All brain functions occur in one interchangeable location"
+    ],
+    "correct": 0,
+    "explanation": "Neural processing is distributed across specialized, connected circuits. Preserved input need not imply normal interpretation."
+  },
+  {
+    "id": "c050",
+    "chapter": 50,
+    "kind": "concept",
+    "question": "Calcium stays low in a skeletal muscle fiber despite motor-neuron activity. What fails directly?",
+    "options": [
+      "Exposure of actin sites needed for cross-bridges",
+      "DNA copying in every myofibril",
+      "Shortening of individual actin molecules"
+    ],
+    "correct": 0,
+    "explanation": "Calcium binds troponin, shifting tropomyosin. Without site exposure, normal cross-bridge cycling cannot proceed."
+  },
+  {
+    "id": "c051",
+    "chapter": 51,
+    "kind": "concept",
+    "question": "A bird's song develops only with both species-typical predispositions and early exposure. Best interpretation?",
+    "options": [
+      "Genes and experience interact",
+      "Behavior is either entirely learned or entirely genetic",
+      "Learning requires changing every inherited allele"
+    ],
+    "correct": 0,
+    "explanation": "Development of behavior can depend on inherited capacities interacting with experience during sensitive periods."
+  },
+  {
+    "id": "c052",
+    "chapter": 52,
+    "kind": "concept",
+    "question": "A species tolerates a habitat in the lab but is absent there in nature. What remains a plausible explanation?",
+    "options": [
+      "Dispersal barriers or biotic interactions",
+      "Tolerance experiments prove it must occur there",
+      "Temperature is the only ecological variable"
+    ],
+    "correct": 0,
+    "explanation": "Distribution reflects access, abiotic conditions, and interactions such as predation or competition."
+  },
+  {
+    "id": "c053",
+    "chapter": 53,
+    "kind": "concept",
+    "question": "In logistic growth, a population reaches half its carrying capacity. At that point its total growth rate is…",
+    "options": [
+      "Maximal under the simple model",
+      "Zero by definition",
+      "Necessarily negative"
+    ],
+    "correct": 0,
+    "explanation": "For dN/dt = rN(1−N/K), the product peaks at N = K/2. Per-capita and total growth rates differ."
+  },
+  {
+    "id": "c054",
+    "chapter": 54,
+    "kind": "concept",
+    "question": "Removing a scarce predator radically changes community composition. Which role is supported?",
+    "options": [
+      "Keystone species",
+      "Dominant species solely because it is abundant",
+      "Primary producer"
+    ],
+    "correct": 0,
+    "explanation": "A keystone species has an effect disproportionate to its abundance. Removal can release prey and cascade through the community."
+  },
+  {
+    "id": "c055",
+    "chapter": 55,
+    "kind": "concept",
+    "question": "Producers fix 1,000 energy units and respire 400. What is net primary production?",
+    "options": [
+      "600 units",
+      "1,400 units",
+      "400 units"
+    ],
+    "correct": 0,
+    "explanation": "NPP equals gross primary production minus producer respiration. It is energy available for growth and potential transfer to consumers."
+  },
+  {
+    "id": "c056",
+    "chapter": 56,
+    "kind": "concept",
+    "question": "Two habitat patches are connected by a corridor. Which outcome is possible rather than guaranteed?",
+    "options": [
+      "More gene flow, alongside possible spread of disease or invaders",
+      "Automatic recovery of every species",
+      "Elimination of all edge effects"
+    ],
+    "correct": 0,
+    "explanation": "Connectivity can benefit dispersal and genetic diversity, but design and ecological context determine tradeoffs."
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "chapter": 1,
+    "prompt": "How would you redesign this study, and why would more plants in the same two plots not fully fix it?",
+    "rubric": [
+      "Vary fertilizer independently of light",
+      "Use independent replicated plots and random assignment",
+      "Distinguish more measurements from independent experimental units"
+    ]
+  },
+  {
+    "chapter": 2,
+    "prompt": "Connect electron arrangement, chemical bonding, and the behavior of sodium in water without saying that atoms choose to bond.",
+    "rubric": [
+      "Valence electrons influence reactivity",
+      "Electron transfer can form ions",
+      "Water stabilizes separated ions through hydration"
+    ]
+  },
+  {
+    "chapter": 3,
+    "prompt": "Connect hydrogen bonding to both floating ice and resistance to rapid temperature change.",
+    "rubric": [
+      "Hydrogen bonds organize ice into an open lattice",
+      "Changing temperature requires energy and rearranges interactions",
+      "These properties stabilize aquatic habitats"
+    ]
+  },
+  {
+    "chapter": 4,
+    "prompt": "Why can matching a molecular formula be insufficient to predict biological activity? Connect isomerism to proteins.",
+    "rubric": [
+      "Connectivity or spatial arrangement can differ",
+      "Protein binding depends on shape and chemical interactions",
+      "Different isomers can produce different responses"
+    ]
+  },
+  {
+    "chapter": 5,
+    "prompt": "Connect amino acid sequence, noncovalent interactions, protein shape, and the effects of temperature.",
+    "rubric": [
+      "Sequence influences folding possibilities",
+      "Interactions stabilize higher-order structure",
+      "Temperature can disrupt shape and therefore function"
+    ]
+  },
+  {
+    "chapter": 6,
+    "prompt": "Trace a secreted protein from gene to extracellular destination, naming where information becomes material.",
+    "rubric": [
+      "Nuclear transcription produces an RNA message",
+      "ER-associated ribosomes translate it and ER processes the protein",
+      "Vesicles carry it through Golgi to exocytosis"
+    ]
+  },
+  {
+    "chapter": 7,
+    "prompt": "Connect osmosis, cell walls, and why a plant cell can become turgid without bursting.",
+    "rubric": [
+      "Solute differences drive net water entry",
+      "The wall limits expansion",
+      "Pressure potential rises until the water-potential difference is balanced"
+    ]
+  },
+  {
+    "chapter": 8,
+    "prompt": "Explain how ATP coupling can drive an unfavorable process while an enzyme alone cannot change its thermodynamic favorability.",
+    "rubric": [
+      "Enzymes lower activation energy",
+      "Coupling combines reactions through a shared mechanism",
+      "The summed free-energy change can be negative"
+    ]
+  },
+  {
+    "chapter": 9,
+    "prompt": "Connect oxidation of food, electron transport, chemiosmosis, and the need for an intact membrane.",
+    "rubric": [
+      "Fuel oxidation supplies high-energy electrons",
+      "Electron transport builds a proton gradient",
+      "ATP synthase uses gradient energy across a selectively permeable membrane"
+    ]
+  },
+  {
+    "chapter": 10,
+    "prompt": "Compare how C₄ and CAM plants separate initial carbon capture from the Calvin cycle, and connect both to water conservation.",
+    "rubric": [
+      "C₄ plants primarily separate steps between cell types",
+      "CAM plants primarily separate steps in time",
+      "Both concentrate CO₂ around rubisco under water-limiting conditions"
+    ]
+  },
+  {
+    "chapter": 11,
+    "prompt": "Connect a surface receptor, a second messenger, and gene regulation; explain where amplification can occur.",
+    "rubric": [
+      "A receptor converts extracellular binding into intracellular activity",
+      "A relay can activate or produce many downstream molecules",
+      "Activated regulators can alter transcription"
+    ]
+  },
+  {
+    "chapter": 12,
+    "prompt": "Connect checkpoint failure, chromosome imbalance, and cancer risk without claiming every abnormal cell becomes cancerous.",
+    "rubric": [
+      "Checkpoints limit propagation of errors",
+      "Missegregation can change gene dosage",
+      "Additional changes and failed controls may permit uncontrolled growth"
+    ]
+  },
+  {
+    "chapter": 13,
+    "prompt": "Explain how crossing over and independent assortment contribute different kinds of variation in gametes.",
+    "rubric": [
+      "Crossing over exchanges segments between homologs",
+      "Independent assortment mixes maternal and paternal homologs across pairs",
+      "Both act before fertilization adds further combinations"
+    ]
+  },
+  {
+    "chapter": 14,
+    "prompt": "Connect segregation to the 1:2:1 genotype ratio and explain why a small family need not show exact expected proportions.",
+    "rubric": [
+      "Each heterozygous parent contributes either allele",
+      "Random fertilization gives AA:Aa:aa probabilities of 1:2:1",
+      "Probability predicts long-run frequencies rather than quotas within one family"
+    ]
+  },
+  {
+    "chapter": 15,
+    "prompt": "Why can two loci on the same chromosome appear to assort independently when far apart?",
+    "rubric": [
+      "Crossovers separate linked alleles",
+      "Multiple crossovers can restore parental arrangements",
+      "Observed recombination approaches 50% and can underestimate long distances"
+    ]
+  },
+  {
+    "chapter": 16,
+    "prompt": "Connect polarity, RNA primers, Okazaki fragments, and DNA ligase.",
+    "rubric": [
+      "Primase provides extendable 3′ ends",
+      "Lagging-strand synthesis repeatedly initiates fragments",
+      "Primer replacement and ligase create a continuous DNA strand"
+    ]
+  },
+  {
+    "chapter": 17,
+    "prompt": "Connect DNA mutation, RNA processing, and protein function; explain why not every mutation changes an amino acid.",
+    "rubric": [
+      "Effects depend on location and sequence",
+      "Splicing and codon redundancy can alter or buffer consequences",
+      "Protein effects depend on the resulting sequence and structure"
+    ]
+  },
+  {
+    "chapter": 18,
+    "prompt": "Connect chromatin accessibility, transcription factors, and cell differentiation.",
+    "rubric": [
+      "Accessible regulatory DNA permits factor binding",
+      "Combinations of factors regulate particular genes",
+      "Maintained expression patterns support specialized cell functions"
+    ]
+  },
+  {
+    "chapter": 19,
+    "prompt": "Compare a lytic infection and a latent integrated viral genome, connecting gene expression to timing of host-cell damage.",
+    "rubric": [
+      "Lytic replication makes viral components and often destroys the host",
+      "Integrated genomes can persist with limited expression",
+      "A switch in gene activity can reactivate productive infection"
+    ]
+  },
+  {
+    "chapter": 20,
+    "prompt": "Connect complementary base pairing to PCR, DNA probes, and CRISPR guide targeting.",
+    "rubric": [
+      "PCR primers recognize complementary target sequences",
+      "Probes bind matching nucleic acids",
+      "Guide RNA helps direct a nuclease to complementary DNA subject to additional targeting requirements"
+    ]
+  },
+  {
+    "chapter": 21,
+    "prompt": "Explain how gene duplication can enable new functions without immediately eliminating an essential old function.",
+    "rubric": [
+      "An extra copy preserves some functional redundancy",
+      "Copies can accumulate different changes",
+      "Selection may retain useful specialization while other copies become inactive"
+    ]
+  },
+  {
+    "chapter": 22,
+    "prompt": "Distinguish individual acclimation from evolution of a population, using pesticide exposure as context.",
+    "rubric": [
+      "Individuals may change physiology during life",
+      "Evolution concerns inherited changes across generations",
+      "Evidence of allele-frequency change supports a population-level explanation"
+    ]
+  },
+  {
+    "chapter": 23,
+    "prompt": "Compare drift, selection, and gene flow in their effects on variation within and between populations.",
+    "rubric": [
+      "Drift can randomly lose alleles, especially in small populations",
+      "Selection favors variants in a particular environment",
+      "Gene flow can introduce variation and reduce differences between populations"
+    ]
+  },
+  {
+    "chapter": 24,
+    "prompt": "Connect reduced gene flow, divergent selection, and reinforcement; state when reinforcement is expected.",
+    "rubric": [
+      "Reduced gene flow allows divergence",
+      "Hybrids with lower fitness can create selection against interbreeding",
+      "Reinforcement strengthens prezygotic barriers under those conditions"
+    ]
+  },
+  {
+    "chapter": 25,
+    "prompt": "Connect mass extinction, adaptive radiation, and why evolution has no predetermined goal.",
+    "rubric": [
+      "Extinction changes available niches and interactions",
+      "Surviving variants face new selection pressures",
+      "Diversification is contingent on history and conditions, not a planned endpoint"
+    ]
+  },
+  {
+    "chapter": 26,
+    "prompt": "Explain why similarity alone can mislead phylogeny; connect homology, convergence, and molecular evidence.",
+    "rubric": [
+      "Homology reflects shared ancestry",
+      "Convergence produces similarity independently",
+      "Multiple character and sequence comparisons help infer ancestry"
+    ]
+  },
+  {
+    "chapter": 27,
+    "prompt": "Connect mutation, horizontal gene transfer, and antibiotic selection in the spread of resistance.",
+    "rubric": [
+      "Mutation or imported DNA can supply resistance variants",
+      "Transfer distributes variants across lineages",
+      "Antibiotics favor reproduction of resistant cells under exposure"
+    ]
+  },
+  {
+    "chapter": 28,
+    "prompt": "Compare primary and secondary endosymbiosis and connect membrane number to historical evidence.",
+    "rubric": [
+      "Primary plastids derive from a cyanobacterial partner",
+      "Secondary events incorporate an already photosynthetic eukaryote",
+      "Membranes and remnant genes can preserve clues to the event"
+    ]
+  },
+  {
+    "chapter": 29,
+    "prompt": "Connect protected embryos, resistant spores, and water-dependent sperm to the transition onto land.",
+    "rubric": [
+      "Retained embryos gain parental protection",
+      "Spore walls resist drying during dispersal",
+      "Motile sperm preserve a dependence on water for fertilization"
+    ]
+  },
+  {
+    "chapter": 30,
+    "prompt": "Connect pollen, fertilization, seeds, and fruit to distinct stages of reproduction and dispersal.",
+    "rubric": [
+      "Pollen transports the male gametophyte",
+      "Fertilization initiates an embryo within the developing seed",
+      "Fruit can protect or disperse angiosperm seeds"
+    ]
+  },
+  {
+    "chapter": 31,
+    "prompt": "Connect fungal hyphae, external digestion, and ecosystem nutrient recycling.",
+    "rubric": [
+      "Hyphal surface area supports secretion and absorption",
+      "Enzymes depolymerize organic material",
+      "Decomposition returns nutrients to forms other organisms can use"
+    ]
+  },
+  {
+    "chapter": 32,
+    "prompt": "Connect body symmetry, cephalization, and movement without treating evolution as a ladder.",
+    "rubric": [
+      "Directional movement can favor concentration of sensory structures anteriorly",
+      "Bilateral organization is associated with many such lineages",
+      "Different ecological histories can alter adult form without changing ancestry"
+    ]
+  },
+  {
+    "chapter": 33,
+    "prompt": "Compare an arthropod exoskeleton with a molluscan mantle-secreted shell in growth and protection.",
+    "rubric": [
+      "Both can protect soft tissues",
+      "Arthropod growth requires molting a rigid exoskeleton",
+      "Many molluscan shells enlarge by secretion at growth regions"
+    ]
+  },
+  {
+    "chapter": 34,
+    "prompt": "Connect the amniotic egg and mammalian pregnancy as modifications of shared developmental structures.",
+    "rubric": [
+      "Amniotic membranes protect and support embryos",
+      "Placental mammals retain modified extraembryonic membranes",
+      "Live birth modifies reproductive support rather than erasing amniote ancestry"
+    ]
+  },
+  {
+    "chapter": 35,
+    "prompt": "Connect primary growth, secondary growth, and the positions of xylem and phloem in a woody stem.",
+    "rubric": [
+      "Apical meristems extend the plant",
+      "Vascular cambium adds secondary xylem inward and phloem outward",
+      "Transport tissues occupy different positions and functions"
+    ]
+  },
+  {
+    "chapter": 36,
+    "prompt": "Connect transpiration, cohesion, tension, and why a continuous xylem water column matters.",
+    "rubric": [
+      "Evaporation lowers leaf water potential",
+      "Cohesion transmits tension through connected water",
+      "Breaks in the column reduce effective transport"
+    ]
+  },
+  {
+    "chapter": 37,
+    "prompt": "Connect soil microbes, nitrogen availability, and the carbon cost of a root symbiosis.",
+    "rubric": [
+      "Microbial partners can supply usable nitrogen",
+      "The plant supplies organic carbon from photosynthesis",
+      "The relationship involves exchange and depends on resource conditions"
+    ]
+  },
+  {
+    "chapter": 38,
+    "prompt": "Connect double fertilization to allocation of resources into seeds and distinguish embryo from endosperm.",
+    "rubric": [
+      "Two fusion events initiate embryo and nutritive tissue",
+      "Endosperm supports embryo development",
+      "The two products have different developmental roles and usually different ploidies"
+    ]
+  },
+  {
+    "chapter": 39,
+    "prompt": "Connect directional light sensing, hormone redistribution, and cell-wall expansion.",
+    "rubric": [
+      "Photoreceptors detect directional illumination",
+      "Auxin distribution or response becomes asymmetric",
+      "Differential wall expansion produces curvature"
+    ]
+  },
+  {
+    "chapter": 40,
+    "prompt": "Connect receptors, integrating centers, effectors, and why negative feedback does not mean an undesirable effect.",
+    "rubric": [
+      "Sensors detect a regulated variable",
+      "An integrating system coordinates effector activity",
+      "Negative describes opposition to the initial change"
+    ]
+  },
+  {
+    "chapter": 41,
+    "prompt": "Connect emulsification, enzymatic hydrolysis, and absorption of dietary lipids.",
+    "rubric": [
+      "Bile disperses lipids and increases accessible surface",
+      "Lipases break ester bonds",
+      "Digestion products enter absorptive cells and are processed for transport"
+    ]
+  },
+  {
+    "chapter": 42,
+    "prompt": "Connect ventilation, circulation, hemoglobin binding, and the oxygen demand of cellular respiration.",
+    "rubric": [
+      "Ventilation maintains lung gas gradients",
+      "Circulation transports oxygen bound mainly to hemoglobin",
+      "Tissue conditions and consumption favor delivery to respiring cells"
+    ]
+  },
+  {
+    "chapter": 43,
+    "prompt": "Connect antigen specificity, clonal selection, and why memory to one pathogen does not guarantee immunity to every pathogen.",
+    "rubric": [
+      "Receptors differ among lymphocyte clones",
+      "Antigen selects and expands matching clones",
+      "Memory retains specificity, so unrelated antigens may require a new response"
+    ]
+  },
+  {
+    "chapter": 44,
+    "prompt": "Connect the nephron's salt gradient, collecting-duct permeability, and urine concentration.",
+    "rubric": [
+      "Transport and countercurrent organization establish a medullary gradient",
+      "ADH changes water permeability",
+      "Water moves osmotically, leaving more concentrated urine when conditions permit"
+    ]
+  },
+  {
+    "chapter": 45,
+    "prompt": "Connect endocrine negative feedback with receptor-level sensitivity; explain why hormone concentration alone may not predict effect.",
+    "rubric": [
+      "Feedback regulates secretion",
+      "Receptor abundance and signaling affect tissue response",
+      "The same concentration can have different effects in different physiological states"
+    ]
+  },
+  {
+    "chapter": 46,
+    "prompt": "Connect hypothalamus, anterior pituitary, and gonads; distinguish a signal pathway from the developmental sequence of gametes.",
+    "rubric": [
+      "GnRH regulates pituitary gonadotropin release",
+      "LH and FSH affect gonadal functions",
+      "Gametogenesis is a cellular process controlled by, but distinct from, endocrine signaling"
+    ]
+  },
+  {
+    "chapter": 47,
+    "prompt": "Connect positional information, induction, and differential gene expression to formation of tissues.",
+    "rubric": [
+      "Cells obtain spatial cues through local signals or inherited determinants",
+      "Regulators activate different gene networks",
+      "Different protein outputs produce distinct cell behaviors and tissues"
+    ]
+  },
+  {
+    "chapter": 48,
+    "prompt": "Connect graded potentials, threshold, and all-or-none spikes; explain how a continuous stimulus can become a spike train.",
+    "rubric": [
+      "Inputs generate graded membrane changes",
+      "Threshold triggers regenerative action potentials",
+      "Repeated threshold crossings generate a frequency-coded output"
+    ]
+  },
+  {
+    "chapter": 49,
+    "prompt": "Connect sensory input, integration, and motor output in a reflex versus a deliberate response.",
+    "rubric": [
+      "Receptors provide input",
+      "Spinal or brain circuits integrate that input at different levels",
+      "Motor pathways execute responses, with conscious processing not required for every reflex"
+    ]
+  },
+  {
+    "chapter": 50,
+    "prompt": "Connect a motor-neuron signal, calcium release, ATP use, and sliding filaments.",
+    "rubric": [
+      "Neuromuscular signaling triggers muscle excitation and calcium release",
+      "Calcium permits actin-myosin interaction",
+      "ATP supports cross-bridge cycling as filaments slide rather than shrink"
+    ]
+  },
+  {
+    "chapter": 51,
+    "prompt": "Give a proximate and an ultimate explanation for migration, keeping mechanism distinct from evolutionary function.",
+    "rubric": [
+      "Proximate explanations address cues and physiological mechanisms",
+      "Ultimate explanations address effects on reproductive success and history",
+      "Both can describe the same behavior without replacing one another"
+    ]
+  },
+  {
+    "chapter": 52,
+    "prompt": "Connect physiological tolerance, dispersal, and species interactions to observed geographic range.",
+    "rubric": [
+      "Abiotic conditions set some constraints",
+      "Organisms must reach and establish in a site",
+      "Biotic interactions can further restrict or facilitate occupancy"
+    ]
+  },
+  {
+    "chapter": 53,
+    "prompt": "Connect exponential growth, density dependence, and why carrying capacity can change.",
+    "rubric": [
+      "Exponential growth assumes constant per-capita increase",
+      "Resource limitation can make growth density dependent",
+      "Environmental changes alter resource supply and therefore K"
+    ]
+  },
+  {
+    "chapter": 54,
+    "prompt": "Connect predation, competition, and a trophic cascade following predator removal.",
+    "rubric": [
+      "Predators constrain prey populations or behavior",
+      "Released prey can alter competitors or producers",
+      "Indirect effects can propagate across multiple feeding levels"
+    ]
+  },
+  {
+    "chapter": 55,
+    "prompt": "Why does energy flow through an ecosystem while nutrients cycle? Connect respiration and decomposition.",
+    "rubric": [
+      "Energy enters, transforms, and ultimately dissipates as heat",
+      "Atoms are conserved and can be reused",
+      "Decomposers return nutrients while also respiring organic material"
+    ]
+  },
+  {
+    "chapter": 56,
+    "prompt": "Connect small-population drift, inbreeding, habitat connectivity, and conservation decisions.",
+    "rubric": [
+      "Small isolated populations can lose variation and accumulate inbreeding",
+      "Movement can introduce alleles and rescue populations",
+      "Management weighs those benefits against ecological risks and local adaptation"
+    ]
+  }
+]
