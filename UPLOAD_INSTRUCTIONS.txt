@@ -1,0 +1,49 @@
+gen bio atlas — B. atlas identity update
+
+WHAT CHANGED
+The title logo is italic B. atlas, inspired by abbreviated biological genus
+names. The app icon uses italic B.a inside a forest-green tile that echoes
+the framed icons of the other Atlas apps. This is a brand, not a species name.
+
+UPDATE YOUR EXISTING GITHUB REPOSITORY
+1. Extract gen-bio-atlas-branding-update.zip.
+2. Open your genbio-atlas repository on GitHub.
+3. Choose Add file > Upload files.
+4. Drag ALL the extracted files onto GitHub's upload area together. They all
+   belong at the repository's main level. Do not upload the ZIP itself or
+   place these files inside an assets folder.
+5. Commit the changes to main. Existing matching filenames are replaced.
+6. Wait for the GitHub Pages deployment to finish. Reload your website.
+
+The filename of the webpage must be exactly index.html, with no extra number.
+The app's CSS, code, glossary, and question bank are embedded in index.html,
+so this upload does not depend on folders or a build command. The separate
+icons and manifest supply browser and home-screen icon metadata. Existing
+other files can stay; index.html does not load the old app.js or styles.css.
+
+IF YOU STILL SEE THE OLD ICON
+Browser tab and home-screen icons can be cached. Try opening the website in
+a fresh tab. If an existing home-screen or Dock shortcut keeps its old icon,
+remove that shortcut and add the website again. Do not clear all website
+data just to refresh an icon; that can remove your local study progress.
+
+FILES
+index.html              Complete working app, with the new header logo
+icon.svg                Scalable B.a icon
+favicon.png             Small PNG browser-tab icon, including Safari fallback
+apple-touch-icon.png    180 px icon for Apple home-screen shortcuts
+icon-192.png            192 px app icon
+icon-512.png            512 px app icon
+manifest.webmanifest    App name, theme color, and home-screen icon metadata
+wordmark.svg            Scalable italic B. atlas wordmark
+title-logo.svg          Combined icon and wordmark, transparent background
+app-cover.png           1024 px app-cover artwork
+ATTRIBUTION.md           Study content source credits
+CONTENT_LICENSE.md      Educational content licenses
+LICENSE                 Software and original artwork license
+
+CHECKS
+The existing app checks passed after the logo update. Learning content,
+scoring, and saved-progress identifiers are unchanged. SVG and PNG output
+were inspected, and every local reference in this flat package was checked.
+Browser layout testing remains unavailable in the preparation environment.
