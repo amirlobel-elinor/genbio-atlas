@@ -127,7 +127,7 @@ Changes: prompts were paraphrased or reframed, answer choices were shortened or 
 
 ## Original material
 
-The 1,966 study definitions, 56 concept cases, 56 connection prompts and rubrics, and chapter goals were drafted for gen bio atlas with AI assistance. They are not verified publisher glossary transcriptions. See CONTENT_LICENSE.md for CC BY 4.0 terms and README.md for coverage limitations.
+The 1,966 study definitions, 56 concept cases, 56 connection prompts and rubrics, and chapter goals were drafted for Gen Bio Atlas with AI assistance. They are not verified publisher glossary transcriptions. See CONTENT_LICENSE.md for CC BY 4.0 terms and README.md for coverage limitations.
 
 ## Linked learning resources
 

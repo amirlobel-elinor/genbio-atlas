@@ -1,6 +1,8 @@
-gen bio atlas — B. atlas identity update
+Gen Bio Atlas — B. atlas identity update
 
 WHAT CHANGED
+The application name is now Gen Bio Atlas in title case everywhere, including
+the browser tab, visible text, logo captions, and installed-app metadata.
 The title logo is italic B. atlas, inspired by abbreviated biological genus
 names. The app icon uses italic B.a inside a forest-green tile that echoes
 the framed icons of the other Atlas apps. This is a brand, not a species name.

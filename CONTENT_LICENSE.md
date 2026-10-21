@@ -2,9 +2,9 @@
 
 ## Newly written content
 
-The gen bio atlas glossary explanations, original concept questions, connection prompts and checklists, and original chapter learning goals are offered under **Creative Commons Attribution 4.0 International (CC BY 4.0)**, to the extent rights in this material are held by the contributors.
+The Gen Bio Atlas glossary explanations, original concept questions, connection prompts and checklists, and original chapter learning goals are offered under **Creative Commons Attribution 4.0 International (CC BY 4.0)**, to the extent rights in this material are held by the contributors.
 
-Credit: “gen bio atlas contributors, 2026.” Link to the repository or published app when sharing, retain this license notice, and indicate changes.
+Credit: “Gen Bio Atlas contributors, 2026.” Link to the repository or published app when sharing, retain this license notice, and indicate changes.
 
 License: https://creativecommons.org/licenses/by/4.0/
 Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
