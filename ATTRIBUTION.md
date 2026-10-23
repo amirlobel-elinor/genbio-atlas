@@ -138,3 +138,7 @@ The 1,966 study definitions, 56 concept cases, 56 connection prompts and rubrics
 - Amoeba Sisters: https://www.amoebasisters.com/playlist.html
 
 These are external links, not imported articles or copied videos. Availability, access requirements, and licensing remain with each provider. The app contains no external image or font dependencies.
+
+## External practice directory (1.1.0)
+
+`data/practice-links.json` contains 170 link references across all 56 chapters, including exact Campbell Biology 12th-edition chapter pages hosted by Pearson, and free OpenStax Biology 2e review and critical-thinking sets matched by topic. Resource pages were retrieved on October 23, 2026; availability and access conditions can change. No Pearson question text was copied into this directory. OpenStax chapter numbers differ, and partial topic matches are identified. These collections are not represented as timed or automatically scored exams.
