@@ -1,4 +1,4 @@
-Gen Bio Atlas — Expanded practice bank update
+Gen Bio Atlas — restored branding + suggestion box
 
 1. Export a progress backup from Notebook in your current app.
 2. Upload every file in this folder to the ROOT of your GitHub repository.

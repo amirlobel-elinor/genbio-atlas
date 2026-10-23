@@ -11,7 +11,7 @@ Use **gen-bio-atlas-study-games.zip** for the easiest GitHub upload. It contains
 5. Commit the update to the branch used for Pages, normally **main**. Existing files with the same names are replaced. Older `assets/` folders may remain; the new standalone `index.html` does not depend on them.
 6. In **Settings → Pages**, keep **Deploy from a branch → main → /(root)**. You only need to change this if your site is currently configured differently. GitHub documents these settings at https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site .
 7. Wait for the Pages deployment in the **Actions** tab to finish. Open the website URL shown under Pages, expected to be https://amirlobel-elinor.github.io/genbio-atlas/ . This package has not been uploaded to your repository automatically.
-8. Refresh with cache bypass: **Command–Shift–R** on Mac or **Control–Shift–R** on Windows/Linux. Confirm the main menu includes **Build Practice Test** and its setup page includes an external practice resources panel.
+8. Refresh with cache bypass: **Command–Shift–R** on Mac or **Control–Shift–R** on Windows/Linux. Confirm the logo reads **B. atlas** and the browser title reads **Gen Bio Atlas**, then check that the main menu includes **Build Practice Test** and its setup page includes an external practice resources panel.
 
 If you are creating a new site, make a repository first, upload the extracted files at its root, then enable Pages with the settings above. The URL will use your account and repository name.
 
@@ -23,9 +23,11 @@ If you are creating a new site, make a repository first, upload the extracted fi
 - **LICENSE**, **CONTENT_LICENSE.md**, **ATTRIBUTION.md** — the applicable code and learning-content credits and licenses.
 - **UPLOAD_INSTRUCTIONS.txt**, **PUBLISHING.md**, **VALIDATION.md**, **LISTS_COVERAGE.md** — instructions, validation notes, and the chapter set inventory.
 
-All these files are at the ZIP root. There are no nested asset folders. The website title remains **Gen Bio Atlas** and the species-inspired **B. atlas** logo is retained.
+All these files are at the ZIP root. There are no nested asset folders. The app name is **Gen Bio Atlas**; the browser and home-screen title are **Gen Bio Atlas**, with the italic **B. atlas** logo and **B.a** icon.
 
 ## Check it before sharing
+
+- Open Suggestion box from the menu footer or phone footer. Confirm an empty message is rejected; type a suggestion, open the draft, and check the destination is amirlobe@usc.edu. Check Copy message and Escape/close. Email delivery itself requires the student to press Send in their email app.
 
 - Open **Build Practice Test** from the menu. Select chapters 17 and 23, then request 30 multiple-choice, 10 true/false, and 5 list questions. All 45 questions should appear, including five writable list questions. Try zero for a question type and fewer total questions than selected chapters. Select one chapter and request 30 MC, 10 TF, and 5 lists: the test should start with 20 MC, 10 TF, and 3 lists and explain the adjustment.
 - Submit a mixed test and review the automatic score separately from list-name and explanation self-checks. More practice online must be absent while answering, including while a submission confirmation is open, and return with the score review. Opening a resource in a new tab must keep the review intact. On your phone, the panel appears below setup or results.
@@ -94,3 +96,7 @@ The upload-ready files are in `dist/site/`, already flat with the correct `index
 ## Credits and licenses
 
 Keep the supplied license and attribution files. Code is MIT; original study explanations and prompts use CC BY 4.0; existing OpenStax question adaptations use CC BY-NC-SA 4.0. The MIT code license does not change the restrictions on learning content. External Pearson and OpenStax resources are linked, not copied into the new practice directory. The glossary explanations are independent Gen Bio Atlas wording, not the official Campbell glossary text.
+
+## Suggestion box
+
+The menu footer (page footer on phones) opens a compact feedback form. Open email draft prepares an email to amirlobe@usc.edu; students review and send it in their email app. Copy message is a fallback if a mail app is unavailable or an embedded preview blocks mailto links. No email service setup or backend is required. Suggestions are not automatically sent.

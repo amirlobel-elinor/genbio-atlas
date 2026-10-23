@@ -1,6 +1,6 @@
 # Validation record
 
-Gen Bio Atlas 1.4.1 · Reliable list counts and resources shown before/after tests.
+Gen Bio Atlas 1.4.3 · restored B. atlas branding and optional suggestion box.
 
 ## Automated checks
 
@@ -75,3 +75,7 @@ The standalone build embeds CSS, data, and all four application scripts. The fla
 A browser executable was not available in the preparation environment. Desktop/mobile layout, touch interactions, and screen-reader behavior have not been browser-tested here. The source includes responsive styling, focus management, and reduced-motion support, but complete the browser checklist in PUBLISHING.md before sharing the site.
 
 The concept sets are curated core coverage, not a verified inventory of every list in Campbell or a course-specific exam checklist. New questions were authored and checked with AI assistance; they have not been independently certified by a biology instructor or the textbook publisher. The glossary and previously existing question bank did not receive a new complete subject-matter review in this update. Chapter term assignments remain suggested topic groupings, not certified publisher key-term lists. The bank now has twenty MC, ten TF, and three concept-set questions per chapter. These are selected practice materials, not an exhaustive exam bank. The external directory is retained from the preceding update and was not revalidated in this feature update.
+
+## Restored branding and suggestions
+
+The eight icon/logo assets match the earlier B. atlas version. Learning JSON and content IDs are unchanged. The suggestion box has a category and text field, a prefilled mailto draft, and a clipboard fallback. Drafts are not automatically sent or stored. Opening it pauses Match and Gravity until explicitly resumed. A browser is unavailable in this environment, so visual layout, OS mail-app launching, and actual email delivery remain manual checks.
