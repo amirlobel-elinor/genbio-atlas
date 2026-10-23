@@ -146,3 +146,13 @@ These are external links, not imported articles or copied videos. Availability, 
 ## Lists & Sets (1.2.0)
 
 The 168 curated concept sets in `data/lists.json` use original question and explanation wording. Their scientific facts and scope were checked against primary educational references linked in each set, principally OpenStax Biology 2e. These are independent chapter-aligned study activities, not copied Campbell test-bank questions or an exhaustive inventory of textbook lists. Source references appear in the app for further reading. No additional textbook diagrams or media were copied into this module. The existing question-adaptation credits and licenses above remain applicable to the separate built-in question bank.
+
+## Build Practice Test (1.3.0)
+
+The 224 statements and explanations in `data/true-false.json` are original Gen Bio Atlas teaching material based on scientific facts, with reference links per item. Each chapter includes two true and two false statements; explanations correct the false claims. They were authored from the chapter concept-set references, not copied from publisher test banks. Original content uses CC BY 4.0 as specified in CONTENT_LICENSE.md. The test builder also draws from the existing multiple-choice and list banks; each retains its existing attribution and license. External resource links use the existing chapter directory and are not bundled examinations.
+
+## Expanded question bank (1.4.0)
+
+Added 952 original multiple-choice questions (`kind: "original"`) and 336 original true/false questions, bringing each of the 56 chapters to 20 MC and 10 TF items. These use independently written scenarios, choices, statements, and explanations grounded in established biological facts. Reference links identify the relevant educational reading, chiefly OpenStax Biology 2e, with additional primary educational sources where appropriate. Links are for learning and verification; they do not imply provider endorsement. The new questions were authored with AI assistance and use the original-content terms in CONTENT_LICENSE.md.
+
+The 112 earlier OpenStax review-question adaptations remain separately identified as `kind: "public"`, with unchanged source question numbers, credits, and CC BY-NC-SA terms. No Kortex question collection could be verified from the name supplied, so no Kortex question text was used or attributed. The external practice directory remains available for additional provider-hosted questions.

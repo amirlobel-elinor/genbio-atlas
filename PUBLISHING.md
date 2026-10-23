@@ -11,13 +11,13 @@ Use **gen-bio-atlas-study-games.zip** for the easiest GitHub upload. It contains
 5. Commit the update to the branch used for Pages, normally **main**. Existing files with the same names are replaced. Older `assets/` folders may remain; the new standalone `index.html` does not depend on them.
 6. In **Settings → Pages**, keep **Deploy from a branch → main → /(root)**. You only need to change this if your site is currently configured differently. GitHub documents these settings at https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site .
 7. Wait for the Pages deployment in the **Actions** tab to finish. Open the website URL shown under Pages, expected to be https://amirlobel-elinor.github.io/genbio-atlas/ . This package has not been uploaded to your repository automatically.
-8. Refresh with cache bypass: **Command–Shift–R** on Mac or **Control–Shift–R** on Windows/Linux. Confirm the chapter page shows **Lists & Sets** beneath the six activity tiles.
+8. Refresh with cache bypass: **Command–Shift–R** on Mac or **Control–Shift–R** on Windows/Linux. Confirm the main menu includes **Build Practice Test** and its setup page includes an external practice resources panel.
 
 If you are creating a new site, make a repository first, upload the extracted files at its root, then enable Pages with the settings above. The URL will use your account and repository name.
 
 ## What is in the upload package?
 
-- **index.html** — the complete app, including styling, all game code, all 1,966 glossary terms, questions, and chapter links.
+- **index.html** — the complete app, including styling, all game code, all 1,966 glossary terms, questions, chapter links, and the practice test builder.
 - **manifest.webmanifest**, **favicon.png**, **apple-touch-icon.png**, **icon-192.png**, **icon-512.png**, and **icon.svg** — app name and browser/home-screen icons.
 - **wordmark.svg**, **title-logo.svg**, **app-cover.png** — the Gen Bio Atlas identity assets.
 - **LICENSE**, **CONTENT_LICENSE.md**, **ATTRIBUTION.md** — the applicable code and learning-content credits and licenses.
@@ -27,6 +27,8 @@ All these files are at the ZIP root. There are no nested asset folders. The webs
 
 ## Check it before sharing
 
+- Open **Build Practice Test** from the menu. Select chapters 17 and 23, then request 30 multiple-choice, 10 true/false, and 5 list questions. All 45 questions should appear, including five writable list questions. Try zero for a question type and fewer total questions than selected chapters. Select one chapter and request 30 MC, 10 TF, and 5 lists: the test should start with 20 MC, 10 TF, and 3 lists and explain the adjustment.
+- Submit a mixed test and review the automatic score separately from list-name and explanation self-checks. More practice online must be absent while answering, including while a submission confirmation is open, and return with the score review. Opening a resource in a new tab must keep the review intact. On your phone, the panel appears below setup or results.
 - A fresh visit asks you to choose a chapter; it never defaults to chapter 1.
 - Every chapter opens a study-set page with six activity tiles and a Lists & Sets module.
 - Open Lists & Sets and try Learn, Build the Set, and Recall & Explain. Ordered sets also offer Put in Order. Try the five Hardy–Weinberg conditions in chapter 23 and nucleotide changes in chapter 17.
@@ -47,7 +49,7 @@ The update keeps the original glossary and question IDs and uses the same browse
 
 Downloaded HTML files, localhost, a GitHub Pages address, and a custom domain can have different browser storage. If progress does not appear after moving, use **Notebook → Import backup**. Import replaces the current browser record after confirmation, so export a current backup first if needed.
 
-Game rounds and scores are session-based. Recognition games do not mark terms as mastered in the spaced-recall record. No account or synchronization service is used.
+Build Practice Test answers and reviews are session-based and are cleared by reloading. Game rounds and scores are also session-based. Recognition games do not mark terms as mastered in the spaced-recall record. No account or synchronization service is used.
 
 ## Edit the source later
 
@@ -59,7 +61,7 @@ With Node.js 20 or newer, open the extracted source project and run:
 npm start
 ```
 
-Visit http://localhost:8080 . No `npm install` is needed. Edit `assets/app.js` for navigation and chapter pages, `assets/study.js` for vocabulary modes, `assets/lists.js` for list practice, and the CSS files for styling. The JSON files in `data/` hold glossary, chapters, questions, connections, practice links, and concept sets (`data/lists.json`). Keep existing content IDs stable.
+Visit http://localhost:8080 . No `npm install` is needed. Edit `assets/app.js` for navigation and chapter pages, `assets/study.js` for vocabulary modes, `assets/lists.js` for list practice, `assets/test-builder.js` for mixed-chapter tests, and the CSS files for styling. The JSON files in `data/` hold glossary, chapters, questions, connections, practice links, and concept sets (`data/lists.json`), and true/false items (`data/true-false.json`). Keep existing content IDs stable.
 
 After editing:
 
@@ -72,6 +74,12 @@ npm run package
 The upload-ready files are in `dist/site/`, already flat with the correct `index.html` name and icons. Upload those files at the repository root. A single-file copy is also written to `dist/Gen_Bio_Atlas.html`. For a source-based deployment, upload the complete source directory contents and keep `assets/` intact. The optional CI workflow in the source package runs checks; it does not block branch-based Pages deployment by itself.
 
 ## Troubleshooting
+
+**Question counts are lower than requested:** The builder caps each type at the number available for your selected chapters. Each chapter has 20 MC, 10 TF, and 3 list prompts. The adjustment notice shows the actual counts; More practice online returns after submission for additional question collections.
+
+**List questions did not appear:** Use version 1.4.1 or later. Build now reads the visible count fields directly, including changes that did not send an input event. With chapters 17 and 23 selected, 30 MC + 10 TF + 5 lists produces 45 questions. Lists are shuffled among the other questions and reported in the count summary.
+
+**Build my test did nothing inside a preview:** Use this 1.3.1 or later copy. The button now acts directly on click instead of depending on native form submission, which embedded previews may block. Submission and discard confirmations appear inside the app. Open the updated HTML preview; if you also publish on GitHub, replace the site files with this package.
 
 **I see code or a file listing:** Open the Pages website address, not the GitHub repository file view. Make sure the entry file is named `index.html` at the configured root.
 
