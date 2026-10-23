@@ -1,4 +1,4 @@
-Gen Bio Atlas — study games update
+Gen Bio Atlas — Lists & Sets update
 
 1. Export a progress backup from Notebook in your current app.
 2. Upload every file in this folder to the ROOT of your GitHub repository.
@@ -11,4 +11,5 @@ No folders or build step are needed for these ready-built files.
 Do not upload the ZIP itself. Do not upload your personal progress backup.
 The website was not updated automatically; these are the files to upload.
 
-See PUBLISHING.md for full instructions and VALIDATION.md for checks.
+See PUBLISHING.md for instructions, LISTS_COVERAGE.md for the chapter sets,
+and VALIDATION.md for checks.

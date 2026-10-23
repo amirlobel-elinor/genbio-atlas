@@ -1,6 +1,6 @@
 # Validation record
 
-Prepared October 23, 2026 · Gen Bio Atlas 1.1.0.
+Gen Bio Atlas 1.2.0 · Lists & Sets update.
 
 ## Automated checks
 
@@ -9,7 +9,7 @@ Run `npm test` in the source project. These are JavaScript/data and DOM-stub sta
 - All 1,966 glossary terms and stable IDs retained; 56 chapters, 168 questions, 56 written connection prompts.
 - Generated data bundle matches JSON source data exactly.
 - Practice directory covers all 56 chapters, with valid HTTPS provider URLs, an exact Campbell chapter page, and OpenStax review/application sets.
-- All 56 chapters × nine activity views render without missing content.
+- All 56 chapters × nine existing activity views render without missing content; the new Lists & Sets module is also checked in every chapter.
 - All 56 chapters × five vocabulary modes × both prompt directions render successfully.
 - Fresh visits ask for a chapter; previous notes, bookmarks, term edits, spaced-review records, and question history survive the upgrade.
 - Flashcards start hidden, accept explicit recall ratings, and do not inflate mastery on repeated same-day reviews.
@@ -24,6 +24,18 @@ Run `npm test` in the source project. These are JavaScript/data and DOM-stub sta
 - Shuffled application answers, duplicate-answer protection, optional in-app quiz submission/history, and source attribution remain working.
 - Glossary search, retained scientific symbols, and old/new backup validation are checked.
 
+## Lists & Sets checks
+
+- All 56 chapters include three curated sets: 168 sets, 608 members, and 27 sets with a required sequence. Each set includes original explanations, distractor feedback, and reference links (130 unique URLs).
+- Every set renders its activity menu, Learn, Build the Set, and Recall & Explain; ordered sets also render Put in Order.
+- Learn reveals deliberately. Build requires all members and no distractors; repeated submission cannot change a graded round.
+- Recall supports every count from one to the complete set, including “any three.” Member order does not affect recall credit. Duplicate names and aliases count once, including after manual synonym checks.
+- Known names and aliases match after safe normalization. Scientific distinctions such as 2n−1 versus 2n+1, and C₃ versus C₄, remain distinct.
+- Explanations are never automatically marked correct. Nonblank original reasoning can be self-assessed against the model answer after identifying the member. Blank answers and duplicate members cannot earn credit through manual mapping.
+- Sequencing is available only for ordered sets, starts shuffled, and grades positions. Cycle prompts specify their starting point.
+- Written answers are escaped for HTML display. Empty data falls back safely. List rounds do not modify existing glossary mastery or persistent progress.
+- Content review checked distinctions in the two requested examples: Hardy–Weinberg conditions and changes to DNA versus consequences for proteins. Coding insertions/deletions shift the frame when their length is not divisible by three. The sets also received editorial review for scope, misleading distractors, and premature answer disclosure.
+
 ## Resource checks
 
 The practice directory contains 170 links (148 unique URLs). The research pass retrieved all 56 exact Pearson Campbell 12th-edition chapter pages and all 47 OpenStax review and 47 critical-thinking pages. This establishes retrievability and page identity at the time of checking, not authenticated access or interactive exam behavior. External pages can change.
@@ -32,10 +44,10 @@ Pearson pages provide chapter questions and solutions; some features may require
 
 ## Distribution checks
 
-The standalone build embeds CSS, data, and both application scripts. The flat upload package puts index.html, icons, manifest, and documentation at one level. Internal code and data require no external asset folder; home-screen icon metadata uses the companion root files. The full source package includes editable JSON and repeatable checks.
+The standalone build embeds CSS, data, and all three application scripts. The flat upload package puts index.html, icons, manifest, and documentation at one level. Internal code and data require no external asset folder; home-screen icon metadata uses the companion root files. The full source package includes editable JSON and repeatable checks.
 
 ## Limits
 
 A browser executable was not available in the preparation environment. Desktop/mobile layout, touch interactions, and screen-reader behavior have not been browser-tested here. The source includes responsive styling, focus management, and reduced-motion support, but complete the browser checklist in PUBLISHING.md before sharing the site.
 
-The glossary and question bank did not receive a new complete biology subject-matter review in this interface update. Chapter term assignments remain suggested topic groupings, not certified publisher key-term lists. The in-app question bank remains deliberately small (three questions per chapter); external sets are now the main destination for further practice.
+The concept sets are curated core coverage, not a verified inventory of every list in Campbell or a course-specific exam checklist. The glossary and existing question bank did not receive a new complete biology subject-matter review in this update. Chapter term assignments remain suggested topic groupings, not certified publisher key-term lists. The in-app question bank remains deliberately small (three questions per chapter); external sets are now the main destination for further practice.

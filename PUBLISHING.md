@@ -11,7 +11,7 @@ Use **gen-bio-atlas-study-games.zip** for the easiest GitHub upload. It contains
 5. Commit the update to the branch used for Pages, normally **main**. Existing files with the same names are replaced. Older `assets/` folders may remain; the new standalone `index.html` does not depend on them.
 6. In **Settings → Pages**, keep **Deploy from a branch → main → /(root)**. You only need to change this if your site is currently configured differently. GitHub documents these settings at https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site .
 7. Wait for the Pages deployment in the **Actions** tab to finish. Open the website URL shown under Pages, expected to be https://amirlobel-elinor.github.io/genbio-atlas/ . This package has not been uploaded to your repository automatically.
-8. Refresh with cache bypass: **Command–Shift–R** on Mac or **Control–Shift–R** on Windows/Linux. Confirm the chapter page shows **Learn**, **Gravity**, and **Practice & Apply**.
+8. Refresh with cache bypass: **Command–Shift–R** on Mac or **Control–Shift–R** on Windows/Linux. Confirm the chapter page shows **Lists & Sets** beneath the six activity tiles.
 
 If you are creating a new site, make a repository first, upload the extracted files at its root, then enable Pages with the settings above. The URL will use your account and repository name.
 
@@ -21,14 +21,16 @@ If you are creating a new site, make a repository first, upload the extracted fi
 - **manifest.webmanifest**, **favicon.png**, **apple-touch-icon.png**, **icon-192.png**, **icon-512.png**, and **icon.svg** — app name and browser/home-screen icons.
 - **wordmark.svg**, **title-logo.svg**, **app-cover.png** — the Gen Bio Atlas identity assets.
 - **LICENSE**, **CONTENT_LICENSE.md**, **ATTRIBUTION.md** — the applicable code and learning-content credits and licenses.
-- **UPLOAD_INSTRUCTIONS.txt**, **PUBLISHING.md**, **VALIDATION.md** — instructions and validation notes.
+- **UPLOAD_INSTRUCTIONS.txt**, **PUBLISHING.md**, **VALIDATION.md**, **LISTS_COVERAGE.md** — instructions, validation notes, and the chapter set inventory.
 
 All these files are at the ZIP root. There are no nested asset folders. The website title remains **Gen Bio Atlas** and the species-inspired **B. atlas** logo is retained.
 
 ## Check it before sharing
 
 - A fresh visit asks you to choose a chapter; it never defaults to chapter 1.
-- Every chapter opens a study-set page with six activity tiles.
+- Every chapter opens a study-set page with six activity tiles and a Lists & Sets module.
+- Open Lists & Sets and try Learn, Build the Set, and Recall & Explain. Ordered sets also offer Put in Order. Try the five Hardy–Weinberg conditions in chapter 23 and nucleotide changes in chapter 17.
+- In Recall & Explain, duplicate members count only once. Explanations require a separate, honest self-check against the model answer.
 - Try both **Term first** and **Definition first** in Flashcards, Learn, Match, Recall Rally, and Gravity. Switching direction restarts the current round.
 - Learn brings missed terms back. Recall Rally lets you self-check written definitions instead of requiring exact wording.
 - Match and Gravity can be paused, and both have untimed options. Check the chosen pace on your phone.
@@ -57,7 +59,7 @@ With Node.js 20 or newer, open the extracted source project and run:
 npm start
 ```
 
-Visit http://localhost:8080 . No `npm install` is needed. Edit `assets/app.js` for navigation and chapter pages, `assets/study.js` for vocabulary modes, and the CSS files for styling. The JSON files in `data/` hold glossary, chapters, questions, connections, and practice links. Keep existing content IDs stable.
+Visit http://localhost:8080 . No `npm install` is needed. Edit `assets/app.js` for navigation and chapter pages, `assets/study.js` for vocabulary modes, `assets/lists.js` for list practice, and the CSS files for styling. The JSON files in `data/` hold glossary, chapters, questions, connections, practice links, and concept sets (`data/lists.json`). Keep existing content IDs stable.
 
 After editing:
 

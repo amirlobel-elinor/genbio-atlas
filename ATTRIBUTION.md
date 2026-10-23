@@ -142,3 +142,7 @@ These are external links, not imported articles or copied videos. Availability, 
 ## External practice directory (1.1.0)
 
 `data/practice-links.json` contains 170 link references across all 56 chapters, including exact Campbell Biology 12th-edition chapter pages hosted by Pearson, and free OpenStax Biology 2e review and critical-thinking sets matched by topic. Resource pages were retrieved on October 23, 2026; availability and access conditions can change. No Pearson question text was copied into this directory. OpenStax chapter numbers differ, and partial topic matches are identified. These collections are not represented as timed or automatically scored exams.
+
+## Lists & Sets (1.2.0)
+
+The 168 curated concept sets in `data/lists.json` use original question and explanation wording. Their scientific facts and scope were checked against primary educational references linked in each set, principally OpenStax Biology 2e. These are independent chapter-aligned study activities, not copied Campbell test-bank questions or an exhaustive inventory of textbook lists. Source references appear in the app for further reading. No additional textbook diagrams or media were copied into this module. The existing question-adaptation credits and licenses above remain applicable to the separate built-in question bank.
