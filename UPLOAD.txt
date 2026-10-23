@@ -1,0 +1,14 @@
+BISC 120/220 — shared site navigation update
+
+Repository: genbio-atlas
+Website: https://amirlobel-elinor.github.io/genbio-atlas/
+
+1. Extract this ZIP.
+2. Open the genbio-atlas repository on GitHub.
+3. Choose Add file > Upload files.
+4. Upload ALL extracted files directly to the repository root (the same place as index.html). Do not upload the ZIP or a folder containing these files.
+5. Commit the changes. After the Pages deployment finishes, reload the site.
+
+The four sites now share a navigation bar: Premed Atlas, CHEM 105a, BISC 120/220, and Element Atlas. The current site is highlighted. On small screens the links form two rows.
+
+The existing analytics tag from your latest shared HTML is preserved. This update does not change Google Analytics stream or destination settings.
